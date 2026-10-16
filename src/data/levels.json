@@ -1,0 +1,2204 @@
+[
+  {
+    "id": 1,
+    "title": "文明的第一束光",
+    "phase": "认识与理解",
+    "minutes": "3–5",
+    "newIds": [
+      "K001",
+      "K002",
+      "K003",
+      "K004",
+      "K005",
+      "K006",
+      "K007",
+      "K008"
+    ],
+    "reviewIds": [],
+    "tasks": [
+      {
+        "id": "K001",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K002",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K003",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K004",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K005",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K006",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K007",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K008",
+        "kind": "judge",
+        "review": false
+      }
+    ],
+    "cheer": "第一关完成！加号已经迈出第一步啦！",
+    "sticker": "嫩芽"
+  },
+  {
+    "id": 2,
+    "title": "翻开古籍的小书签",
+    "phase": "认识与理解",
+    "minutes": "3–5",
+    "newIds": [
+      "K009",
+      "K010",
+      "K011",
+      "K012",
+      "K013",
+      "K014",
+      "K015",
+      "K016"
+    ],
+    "reviewIds": [
+      "K007",
+      "K008"
+    ],
+    "tasks": [
+      {
+        "id": "K009",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K010",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K011",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K012",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K013",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K014",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K015",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K016",
+        "kind": "keywords",
+        "review": false
+      },
+      {
+        "id": "K007",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K008",
+        "kind": "choice",
+        "review": true
+      }
+    ],
+    "cheer": "加号，两枚小书签已经悄悄记在心里啦。",
+    "sticker": "书签"
+  },
+  {
+    "id": 3,
+    "title": "典籍里的藏宝图",
+    "phase": "认识与理解",
+    "minutes": "3–5",
+    "newIds": [
+      "K017",
+      "K018",
+      "K019",
+      "K020",
+      "K021",
+      "K022",
+      "K023",
+      "K024"
+    ],
+    "reviewIds": [
+      "K010",
+      "K007"
+    ],
+    "tasks": [
+      {
+        "id": "K017",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K018",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K019",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K020",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K021",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K022",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K023",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K024",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K010",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K007",
+        "kind": "match",
+        "review": true
+      }
+    ],
+    "cheer": "加号找到古籍宝藏啦，给你一朵小红花！",
+    "sticker": "花朵"
+  },
+  {
+    "id": 4,
+    "title": "文人朋友来做客",
+    "phase": "认识与理解",
+    "minutes": "3–5",
+    "newIds": [
+      "K025",
+      "K026",
+      "K027",
+      "K028",
+      "K029",
+      "K030",
+      "K031",
+      "K032"
+    ],
+    "reviewIds": [
+      "K013",
+      "K006"
+    ],
+    "tasks": [
+      {
+        "id": "K025",
+        "kind": "source",
+        "review": false
+      },
+      {
+        "id": "K026",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K027",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K028",
+        "kind": "keywords",
+        "review": false
+      },
+      {
+        "id": "K029",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K030",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K031",
+        "kind": "keywords",
+        "review": false
+      },
+      {
+        "id": "K032",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K013",
+        "kind": "judge",
+        "review": true
+      },
+      {
+        "id": "K006",
+        "kind": "choice",
+        "review": true
+      }
+    ],
+    "cheer": "加号又认识了一群文人朋友，真不错呀！",
+    "sticker": "星星"
+  },
+  {
+    "id": 5,
+    "title": "认识古人的小暗号",
+    "phase": "认识与理解",
+    "minutes": "3–5",
+    "newIds": [
+      "K033",
+      "K034",
+      "K035",
+      "K036",
+      "K037",
+      "K038",
+      "K039",
+      "K040"
+    ],
+    "reviewIds": [
+      "K016",
+      "K005"
+    ],
+    "tasks": [
+      {
+        "id": "K033",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K034",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K035",
+        "kind": "keywords",
+        "review": false
+      },
+      {
+        "id": "K036",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K037",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K038",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K039",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K040",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K016",
+        "kind": "keywords",
+        "review": true
+      },
+      {
+        "id": "K005",
+        "kind": "scene",
+        "review": true
+      }
+    ],
+    "cheer": "哇，加号已经走到第五关啦，奖励一个大大的鼓掌！",
+    "sticker": "小屋"
+  },
+  {
+    "id": 6,
+    "title": "把岁月叫出名字",
+    "phase": "认识与理解",
+    "minutes": "3–5",
+    "newIds": [
+      "K041",
+      "K042",
+      "K043",
+      "K044",
+      "K045",
+      "K046",
+      "K047",
+      "K048"
+    ],
+    "reviewIds": [
+      "K019",
+      "K004"
+    ],
+    "tasks": [
+      {
+        "id": "K041",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K042",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K043",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K044",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K045",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K046",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K047",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K048",
+        "kind": "source",
+        "review": false
+      },
+      {
+        "id": "K019",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K004",
+        "kind": "match",
+        "review": true
+      }
+    ],
+    "cheer": "加号，岁月的名字也被你记住啦。",
+    "sticker": "嫩芽"
+  },
+  {
+    "id": 7,
+    "title": "礼貌称谓小茶会",
+    "phase": "认识与理解",
+    "minutes": "3–5",
+    "newIds": [
+      "K049",
+      "K050",
+      "K051",
+      "K052",
+      "K053",
+      "K054",
+      "K055",
+      "K056"
+    ],
+    "reviewIds": [
+      "K022",
+      "K003"
+    ],
+    "tasks": [
+      {
+        "id": "K049",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K050",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K051",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K052",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K053",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K054",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K055",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K056",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K022",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K003",
+        "kind": "choice",
+        "review": true
+      }
+    ],
+    "cheer": "礼貌的小暗号通关，加号学得好用心！",
+    "sticker": "书签"
+  },
+  {
+    "id": 8,
+    "title": "寻找行业的别称",
+    "phase": "认识与理解",
+    "minutes": "3–5",
+    "newIds": [
+      "K057",
+      "K058",
+      "K059",
+      "K060",
+      "K061",
+      "K062",
+      "K063",
+      "K064"
+    ],
+    "reviewIds": [
+      "K025",
+      "K002"
+    ],
+    "tasks": [
+      {
+        "id": "K057",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K058",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K059",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K060",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K061",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K062",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K063",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K064",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K025",
+        "kind": "source",
+        "review": true
+      },
+      {
+        "id": "K002",
+        "kind": "match",
+        "review": true
+      }
+    ],
+    "cheer": "加号，今天的小知识都在为你发光呀。",
+    "sticker": "花朵"
+  },
+  {
+    "id": 9,
+    "title": "去山川走一走",
+    "phase": "认识与理解",
+    "minutes": "3–5",
+    "newIds": [
+      "K065",
+      "K066",
+      "K067",
+      "K068",
+      "K069",
+      "K070",
+      "K071",
+      "K072"
+    ],
+    "reviewIds": [
+      "K028",
+      "K001"
+    ],
+    "tasks": [
+      {
+        "id": "K065",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K066",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K067",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K068",
+        "kind": "keywords",
+        "review": false
+      },
+      {
+        "id": "K069",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K070",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K071",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K072",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K028",
+        "kind": "judge",
+        "review": true
+      },
+      {
+        "id": "K001",
+        "kind": "choice",
+        "review": true
+      }
+    ],
+    "cheer": "山川的风景真美，加号的进步也是。",
+    "sticker": "星星"
+  },
+  {
+    "id": 10,
+    "title": "人文风景明信片",
+    "phase": "认识与理解",
+    "minutes": "3–5",
+    "newIds": [
+      "K073",
+      "K074",
+      "K075",
+      "K076",
+      "K077",
+      "K078",
+      "K079",
+      "K080"
+    ],
+    "reviewIds": [
+      "K031",
+      "K072"
+    ],
+    "tasks": [
+      {
+        "id": "K073",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K074",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K075",
+        "kind": "keywords",
+        "review": false
+      },
+      {
+        "id": "K076",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K077",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K078",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K079",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K080",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K031",
+        "kind": "keywords",
+        "review": true
+      },
+      {
+        "id": "K072",
+        "kind": "scene",
+        "review": true
+      }
+    ],
+    "cheer": "十关啦！加号真的积累了好多知识！",
+    "sticker": "小屋"
+  },
+  {
+    "id": 11,
+    "title": "山海与四宝",
+    "phase": "记忆与辨析",
+    "minutes": "3–5",
+    "newIds": [
+      "K081",
+      "K082",
+      "K083",
+      "K084",
+      "K085",
+      "K086",
+      "K087",
+      "K088"
+    ],
+    "reviewIds": [
+      "K034",
+      "K079"
+    ],
+    "tasks": [
+      {
+        "id": "K081",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K082",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K083",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K084",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K085",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K086",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K087",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K088",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K034",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K079",
+        "kind": "match",
+        "review": true
+      }
+    ],
+    "cheer": "加号，又收集了一盒亮晶晶的知识。",
+    "sticker": "嫩芽"
+  },
+  {
+    "id": 12,
+    "title": "艺术与历史相遇",
+    "phase": "记忆与辨析",
+    "minutes": "3–5",
+    "newIds": [
+      "K089",
+      "K090",
+      "K091",
+      "K092",
+      "K093",
+      "K094",
+      "K095",
+      "K096"
+    ],
+    "reviewIds": [
+      "K037",
+      "K086"
+    ],
+    "tasks": [
+      {
+        "id": "K089",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K090",
+        "kind": "keywords",
+        "review": false
+      },
+      {
+        "id": "K091",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K092",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K093",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K094",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K095",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K096",
+        "kind": "keywords",
+        "review": false
+      },
+      {
+        "id": "K037",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K086",
+        "kind": "choice",
+        "review": true
+      }
+    ],
+    "cheer": "加号让艺术和历史牵上了手，真棒呀！",
+    "sticker": "书签"
+  },
+  {
+    "id": 13,
+    "title": "治世的小小年轮",
+    "phase": "记忆与辨析",
+    "minutes": "3–5",
+    "newIds": [
+      "K097",
+      "K098",
+      "K099",
+      "K100",
+      "K101",
+      "K102",
+      "K103",
+      "K104"
+    ],
+    "reviewIds": [
+      "K040",
+      "K093"
+    ],
+    "tasks": [
+      {
+        "id": "K097",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K098",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K099",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K100",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K101",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K102",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K103",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K104",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K040",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K093",
+        "kind": "match",
+        "review": true
+      }
+    ],
+    "cheer": "加号，历史的年轮又多记住一圈啦。",
+    "sticker": "花朵"
+  },
+  {
+    "id": 14,
+    "title": "战役故事放映室",
+    "phase": "记忆与辨析",
+    "minutes": "3–5",
+    "newIds": [
+      "K105",
+      "K106",
+      "K107",
+      "K108",
+      "K109",
+      "K110",
+      "K111",
+      "K112"
+    ],
+    "reviewIds": [
+      "K043",
+      "K100"
+    ],
+    "tasks": [
+      {
+        "id": "K105",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K106",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K107",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K108",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K109",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K110",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K111",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K112",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K043",
+        "kind": "judge",
+        "review": true
+      },
+      {
+        "id": "K100",
+        "kind": "keywords",
+        "review": true
+      }
+    ],
+    "cheer": "复杂的故事也难不倒认真学习的加号。",
+    "sticker": "星星"
+  },
+  {
+    "id": 15,
+    "title": "跟着帆船去远方",
+    "phase": "记忆与辨析",
+    "minutes": "3–5",
+    "newIds": [
+      "K113",
+      "K114",
+      "K115",
+      "K116",
+      "K117",
+      "K118",
+      "K119",
+      "K120"
+    ],
+    "reviewIds": [
+      "K046",
+      "K107"
+    ],
+    "tasks": [
+      {
+        "id": "K113",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K114",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K115",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K116",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K117",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K118",
+        "kind": "keywords",
+        "review": false
+      },
+      {
+        "id": "K119",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K120",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K046",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K107",
+        "kind": "scene",
+        "review": true
+      }
+    ],
+    "cheer": "加号，航海小船已经载着知识靠岸啦！",
+    "sticker": "小屋"
+  },
+  {
+    "id": 16,
+    "title": "史书分类整理师",
+    "phase": "记忆与辨析",
+    "minutes": "3–5",
+    "newIds": [
+      "K121",
+      "K122",
+      "K123",
+      "K124",
+      "K125",
+      "K126",
+      "K127",
+      "K128"
+    ],
+    "reviewIds": [
+      "K049",
+      "K114"
+    ],
+    "tasks": [
+      {
+        "id": "K121",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K122",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K123",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K124",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K125",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K126",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K127",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K128",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K049",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K114",
+        "kind": "match",
+        "review": true
+      }
+    ],
+    "cheer": "加号把史书整理得清清楚楚，给你鼓掌。",
+    "sticker": "嫩芽"
+  },
+  {
+    "id": 17,
+    "title": "诗人的星光派对",
+    "phase": "记忆与辨析",
+    "minutes": "3–5",
+    "newIds": [
+      "K129",
+      "K130",
+      "K131",
+      "K132",
+      "K133",
+      "K134",
+      "K135",
+      "K136"
+    ],
+    "reviewIds": [
+      "K052",
+      "K121"
+    ],
+    "tasks": [
+      {
+        "id": "K129",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K130",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K131",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K132",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K133",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K134",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K135",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K136",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K052",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K121",
+        "kind": "choice",
+        "review": true
+      }
+    ],
+    "cheer": "星光派对圆满结束，加号又认识好多诗人。",
+    "sticker": "书签"
+  },
+  {
+    "id": 18,
+    "title": "名句与名著重逢",
+    "phase": "记忆与辨析",
+    "minutes": "3–5",
+    "newIds": [
+      "K137",
+      "K138",
+      "K139",
+      "K140",
+      "K141",
+      "K142",
+      "K143",
+      "K144"
+    ],
+    "reviewIds": [
+      "K055",
+      "K128"
+    ],
+    "tasks": [
+      {
+        "id": "K137",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K138",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K139",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K140",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K141",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K142",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K143",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K144",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K055",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K128",
+        "kind": "match",
+        "review": true
+      }
+    ],
+    "cheer": "加号，熟悉的诗句正在慢慢成为你的朋友。",
+    "sticker": "花朵"
+  },
+  {
+    "id": 19,
+    "title": "文学世界小剧场",
+    "phase": "记忆与辨析",
+    "minutes": "3–5",
+    "newIds": [
+      "K145",
+      "K146",
+      "K147",
+      "K148",
+      "K149",
+      "K150",
+      "K151",
+      "K152"
+    ],
+    "reviewIds": [
+      "K058",
+      "K135"
+    ],
+    "tasks": [
+      {
+        "id": "K145",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K146",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K147",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K148",
+        "kind": "keywords",
+        "review": false
+      },
+      {
+        "id": "K149",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K150",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K151",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K152",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K058",
+        "kind": "judge",
+        "review": true
+      },
+      {
+        "id": "K135",
+        "kind": "choice",
+        "review": true
+      }
+    ],
+    "cheer": "书页翻过一章，加号也向前走了一步。",
+    "sticker": "星星"
+  },
+  {
+    "id": 20,
+    "title": "科技灵感发芽啦",
+    "phase": "记忆与辨析",
+    "minutes": "3–5",
+    "newIds": [
+      "K153",
+      "K154",
+      "K155",
+      "K156",
+      "K157",
+      "K158",
+      "K159",
+      "K160"
+    ],
+    "reviewIds": [
+      "K061",
+      "K142"
+    ],
+    "tasks": [
+      {
+        "id": "K153",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K154",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K155",
+        "kind": "keywords",
+        "review": false
+      },
+      {
+        "id": "K156",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K157",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K158",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K159",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K160",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K061",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K142",
+        "kind": "scene",
+        "review": true
+      }
+    ],
+    "cheer": "加号，你已经认识这么多知识点了，太厉害啦！",
+    "sticker": "小屋"
+  },
+  {
+    "id": 21,
+    "title": "本草与匠心手记",
+    "phase": "综合运用",
+    "minutes": "3–5",
+    "newIds": [
+      "K161",
+      "K162",
+      "K163",
+      "K164",
+      "K165",
+      "K166",
+      "K167",
+      "K168"
+    ],
+    "reviewIds": [
+      "K064",
+      "K149"
+    ],
+    "tasks": [
+      {
+        "id": "K161",
+        "kind": "source",
+        "review": false
+      },
+      {
+        "id": "K162",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K163",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K164",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K165",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K166",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K167",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K168",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K064",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K149",
+        "kind": "match",
+        "review": true
+      }
+    ],
+    "cheer": "加号，小小匠心也在你的心里发芽。",
+    "sticker": "嫩芽"
+  },
+  {
+    "id": 22,
+    "title": "向宇宙挥挥手",
+    "phase": "综合运用",
+    "minutes": "3–5",
+    "newIds": [
+      "K169",
+      "K170",
+      "K171",
+      "K172",
+      "K173",
+      "K174",
+      "K175",
+      "K176"
+    ],
+    "reviewIds": [
+      "K067",
+      "K156"
+    ],
+    "tasks": [
+      {
+        "id": "K169",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K170",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K171",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K172",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K173",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K174",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K175",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K176",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K067",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K156",
+        "kind": "choice",
+        "review": true
+      }
+    ],
+    "cheer": "加号向宇宙挥手，宇宙也为你亮起一颗星。",
+    "sticker": "书签"
+  },
+  {
+    "id": 23,
+    "title": "音乐家的下午茶",
+    "phase": "综合运用",
+    "minutes": "3–5",
+    "newIds": [
+      "K177",
+      "K178",
+      "K179",
+      "K180",
+      "K181",
+      "K182",
+      "K183",
+      "K184"
+    ],
+    "reviewIds": [
+      "K070",
+      "K163"
+    ],
+    "tasks": [
+      {
+        "id": "K177",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K178",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K179",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K180",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K181",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K182",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K183",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K184",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K070",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K163",
+        "kind": "match",
+        "review": true
+      }
+    ],
+    "cheer": "音乐家的下午茶结束，给加号留一块小饼干。",
+    "sticker": "花朵"
+  },
+  {
+    "id": 24,
+    "title": "字里行间的星空",
+    "phase": "综合运用",
+    "minutes": "3–5",
+    "newIds": [
+      "K185",
+      "K186",
+      "K187",
+      "K188",
+      "K189",
+      "K190",
+      "K191",
+      "K192"
+    ],
+    "reviewIds": [
+      "K073",
+      "K170"
+    ],
+    "tasks": [
+      {
+        "id": "K185",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K186",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K187",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K188",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K189",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K190",
+        "kind": "judge",
+        "review": false
+      },
+      {
+        "id": "K191",
+        "kind": "keywords",
+        "review": false
+      },
+      {
+        "id": "K192",
+        "kind": "choice",
+        "review": false
+      },
+      {
+        "id": "K073",
+        "kind": "judge",
+        "review": true
+      },
+      {
+        "id": "K170",
+        "kind": "choice",
+        "review": true
+      }
+    ],
+    "cheer": "加号，文字和星光都被你收进小屋啦。",
+    "sticker": "星星"
+  },
+  {
+    "id": 25,
+    "title": "北斗为你点亮路",
+    "phase": "综合运用",
+    "minutes": "3–5",
+    "newIds": [
+      "K193",
+      "K194",
+      "K195",
+      "K196",
+      "K197",
+      "K198",
+      "K199",
+      "K200"
+    ],
+    "reviewIds": [
+      "K076",
+      "K177"
+    ],
+    "tasks": [
+      {
+        "id": "K193",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K194",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K195",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K196",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K197",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K198",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K199",
+        "kind": "scene",
+        "review": false
+      },
+      {
+        "id": "K200",
+        "kind": "match",
+        "review": false
+      },
+      {
+        "id": "K076",
+        "kind": "keywords",
+        "review": true
+      },
+      {
+        "id": "K177",
+        "kind": "scene",
+        "review": true
+      }
+    ],
+    "cheer": "两百条知识都见过啦，加号真的走了好远！",
+    "sticker": "小屋"
+  },
+  {
+    "id": 26,
+    "title": "历史记忆回音谷",
+    "phase": "复习与巩固",
+    "minutes": "3–5",
+    "newIds": [],
+    "reviewIds": [
+      "K001",
+      "K018",
+      "K035",
+      "K052",
+      "K069",
+      "K086",
+      "K103",
+      "K120",
+      "K137",
+      "K154"
+    ],
+    "tasks": [
+      {
+        "id": "K001",
+        "kind": "match",
+        "review": true
+      },
+      {
+        "id": "K018",
+        "kind": "judge",
+        "review": true
+      },
+      {
+        "id": "K035",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K052",
+        "kind": "match",
+        "review": true
+      },
+      {
+        "id": "K069",
+        "kind": "judge",
+        "review": true
+      },
+      {
+        "id": "K086",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K103",
+        "kind": "match",
+        "review": true
+      },
+      {
+        "id": "K120",
+        "kind": "judge",
+        "review": true
+      },
+      {
+        "id": "K137",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K154",
+        "kind": "match",
+        "review": true
+      }
+    ],
+    "cheer": "加号，回头看看，原来你已经记住这么多。",
+    "sticker": "嫩芽"
+  },
+  {
+    "id": 27,
+    "title": "典籍知识收纳盒",
+    "phase": "复习与巩固",
+    "minutes": "3–5",
+    "newIds": [],
+    "reviewIds": [
+      "K040",
+      "K057",
+      "K074",
+      "K091",
+      "K108",
+      "K125",
+      "K142",
+      "K159",
+      "K176",
+      "K193"
+    ],
+    "tasks": [
+      {
+        "id": "K040",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K057",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K074",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K091",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K108",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K125",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K142",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K159",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K176",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K193",
+        "kind": "choice",
+        "review": true
+      }
+    ],
+    "cheer": "加号把散落的知识放回了合适的小格子。",
+    "sticker": "书签"
+  },
+  {
+    "id": 28,
+    "title": "人文概念碰碰车",
+    "phase": "复习与巩固",
+    "minutes": "3–5",
+    "newIds": [],
+    "reviewIds": [
+      "K079",
+      "K096",
+      "K113",
+      "K130",
+      "K147",
+      "K164",
+      "K181",
+      "K198",
+      "K015",
+      "K032"
+    ],
+    "tasks": [
+      {
+        "id": "K079",
+        "kind": "match",
+        "review": true
+      },
+      {
+        "id": "K096",
+        "kind": "judge",
+        "review": true
+      },
+      {
+        "id": "K113",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K130",
+        "kind": "match",
+        "review": true
+      },
+      {
+        "id": "K147",
+        "kind": "judge",
+        "review": true
+      },
+      {
+        "id": "K164",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K181",
+        "kind": "match",
+        "review": true
+      },
+      {
+        "id": "K198",
+        "kind": "judge",
+        "review": true
+      },
+      {
+        "id": "K015",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K032",
+        "kind": "match",
+        "review": true
+      }
+    ],
+    "cheer": "会混淆也没关系，加号已经把它们分清一点啦。",
+    "sticker": "花朵"
+  },
+  {
+    "id": 29,
+    "title": "薄弱知识补给站",
+    "phase": "复习与巩固",
+    "minutes": "3–5",
+    "newIds": [],
+    "reviewIds": [
+      "K118",
+      "K135",
+      "K152",
+      "K169",
+      "K186",
+      "K003",
+      "K020",
+      "K037",
+      "K054",
+      "K071"
+    ],
+    "tasks": [
+      {
+        "id": "K118",
+        "kind": "keywords",
+        "review": true
+      },
+      {
+        "id": "K135",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K152",
+        "kind": "judge",
+        "review": true
+      },
+      {
+        "id": "K169",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K186",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K003",
+        "kind": "judge",
+        "review": true
+      },
+      {
+        "id": "K020",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K037",
+        "kind": "choice",
+        "review": true
+      },
+      {
+        "id": "K054",
+        "kind": "judge",
+        "review": true
+      },
+      {
+        "id": "K071",
+        "kind": "choice",
+        "review": true
+      }
+    ],
+    "cheer": "加号，愿意再练一次就是很温柔的坚持。",
+    "sticker": "星星"
+  },
+  {
+    "id": 30,
+    "title": "加号的星光毕业礼",
+    "phase": "复习与巩固",
+    "minutes": "3–5",
+    "newIds": [],
+    "reviewIds": [
+      "K157",
+      "K174",
+      "K191",
+      "K008",
+      "K025",
+      "K042",
+      "K059",
+      "K076",
+      "K093",
+      "K110"
+    ],
+    "tasks": [
+      {
+        "id": "K157",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K174",
+        "kind": "match",
+        "review": true
+      },
+      {
+        "id": "K191",
+        "kind": "keywords",
+        "review": true
+      },
+      {
+        "id": "K008",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K025",
+        "kind": "source",
+        "review": true
+      },
+      {
+        "id": "K042",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K059",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K076",
+        "kind": "match",
+        "review": true
+      },
+      {
+        "id": "K093",
+        "kind": "scene",
+        "review": true
+      },
+      {
+        "id": "K110",
+        "kind": "scene",
+        "review": true
+      }
+    ],
+    "cheer": "恭喜加号完成30关！这一路学过的东西，都是你的收获！",
+    "sticker": "小屋"
+  }
+]

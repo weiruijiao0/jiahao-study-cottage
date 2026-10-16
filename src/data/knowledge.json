@@ -1,0 +1,8412 @@
+[
+  {
+    "id": "K001",
+    "number": 1,
+    "original": "元谋人：已知中国境内最早的人类",
+    "chapter": "文明足迹",
+    "term": "元谋人",
+    "meaning": "已知中国境内最早的人类",
+    "learningGoal": "识别元谋人与“已知中国境内最早的人类”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "元谋人",
+      "已知中国境内最早的人类"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "北京人",
+      "山顶洞人"
+    ],
+    "difficulty": 1,
+    "firstLevel": 1,
+    "reviewLevels": [
+      9,
+      26
+    ],
+    "answer": "元谋人",
+    "explanation": "元谋人：已知中国境内最早的人类",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 1
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K002",
+    "number": 2,
+    "original": "北京人：会使用和保存天然",
+    "chapter": "文明足迹",
+    "term": "北京人",
+    "meaning": "会使用和保存天然火",
+    "learningGoal": "识别北京人与“会使用和保存天然火”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "北京人",
+      "会使用和保存天然火"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "元谋人",
+      "山顶洞人"
+    ],
+    "difficulty": 1,
+    "firstLevel": 1,
+    "reviewLevels": [
+      8
+    ],
+    "answer": "北京人",
+    "explanation": "北京人：会使用和保存天然",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 2
+    },
+    "issue": "原文停在“天然”，疑似缺少“火”字。练习使用“天然火”，此处显式记录补字。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K003",
+    "number": 3,
+    "original": "山顶洞人：人工取火",
+    "chapter": "文明足迹",
+    "term": "山顶洞人",
+    "meaning": "会人工取火的远古人类",
+    "learningGoal": "识别山顶洞人与“会人工取火的远古人类”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "山顶洞人",
+      "会人工取火的远古人类"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "元谋人",
+      "北京人"
+    ],
+    "difficulty": 1,
+    "firstLevel": 1,
+    "reviewLevels": [
+      7,
+      29
+    ],
+    "answer": "山顶洞人",
+    "explanation": "山顶洞人：人工取火",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 3
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K004",
+    "number": 4,
+    "original": "夏朝：中国第一个奴隶制王朝",
+    "chapter": "文明足迹",
+    "term": "夏朝",
+    "meaning": "中国第一个奴隶制王朝",
+    "learningGoal": "识别夏朝与“中国第一个奴隶制王朝”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "夏朝",
+      "中国第一个奴隶制王朝"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "商朝",
+      "秦朝"
+    ],
+    "difficulty": 1,
+    "firstLevel": 1,
+    "reviewLevels": [
+      6
+    ],
+    "answer": "夏朝",
+    "explanation": "夏朝：中国第一个奴隶制王朝",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 4
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K005",
+    "number": 5,
+    "original": "《夏小正》：我国现存最早的一部记录传统农事的历书",
+    "chapter": "文明足迹",
+    "term": "《夏小正》",
+    "meaning": "记录传统农事的早期历书",
+    "learningGoal": "识别《夏小正》与“记录传统农事的早期历书”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《夏小正》",
+      "记录传统农事的早期历书"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《周易》",
+      "《尚书》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 1,
+    "reviewLevels": [
+      5
+    ],
+    "answer": "《夏小正》",
+    "explanation": "《夏小正》：我国现存最早的一部记录传统农事的历书",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 5
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K006",
+    "number": 6,
+    "original": "汉武帝：中国历史上第一个使用年号的皇帝",
+    "chapter": "文明足迹",
+    "term": "汉武帝",
+    "meaning": "中国历史上第一个使用年号的皇帝",
+    "learningGoal": "识别汉武帝与“中国历史上第一个使用年号的皇帝”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "汉武帝",
+      "中国历史上第一个使用年号的皇帝"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "汉文帝",
+      "汉景帝"
+    ],
+    "difficulty": 1,
+    "firstLevel": 1,
+    "reviewLevels": [
+      4
+    ],
+    "answer": "汉武帝",
+    "explanation": "汉武帝：中国历史上第一个使用年号的皇帝",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 6
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K007",
+    "number": 7,
+    "original": "元朝形成了一个新的民族—回族",
+    "chapter": "文明足迹",
+    "term": "回族",
+    "meaning": "元朝形成的新民族",
+    "learningGoal": "识别回族与“元朝形成的新民族”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "回族",
+      "元朝形成的新民族"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "汉族",
+      "蒙古族"
+    ],
+    "difficulty": 1,
+    "firstLevel": 1,
+    "reviewLevels": [
+      2,
+      3
+    ],
+    "answer": "回族",
+    "explanation": "元朝形成了一个新的民族—回族",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 7
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K008",
+    "number": 8,
+    "original": "《汉谟拉比法典》：世界上现存的第一部比较完备的成文法典",
+    "chapter": "文明足迹",
+    "term": "《汉谟拉比法典》",
+    "meaning": "现存较早且较完备的成文法典",
+    "learningGoal": "识别《汉谟拉比法典》与“现存较早且较完备的成文法典”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《汉谟拉比法典》",
+      "现存较早且较完备的成文法典"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《唐本草》",
+      "《周易》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 1,
+    "reviewLevels": [
+      2,
+      30
+    ],
+    "answer": "《汉谟拉比法典》",
+    "explanation": "《汉谟拉比法典》：世界上现存的第一部比较完备的成文法典",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 8
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K009",
+    "number": 9,
+    "original": "胡夫金字塔：世界上最大的金字塔",
+    "chapter": "文明足迹",
+    "term": "胡夫金字塔",
+    "meaning": "原资料中“世界上最大的金字塔”",
+    "learningGoal": "识别胡夫金字塔与“原资料中“世界上最大的金字塔””的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "胡夫金字塔",
+      "原资料中“世界上最大的金字塔”"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "颐和园",
+      "故宫"
+    ],
+    "difficulty": 1,
+    "firstLevel": 2,
+    "reviewLevels": [],
+    "answer": "胡夫金字塔",
+    "explanation": "胡夫金字塔：世界上最大的金字塔",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 9
+    },
+    "issue": "“最大”未说明高度、体积还是基底面积。本条仅识别原资料中的对应名称，不把无条件的最值作为结论。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K010",
+    "number": 10,
+    "original": "《诗经》：中国最早的一部诗歌总集",
+    "chapter": "典籍与文人",
+    "term": "《诗经》",
+    "meaning": "中国最早的一部诗歌总集",
+    "learningGoal": "识别《诗经》与“中国最早的一部诗歌总集”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《诗经》",
+      "中国最早的一部诗歌总集"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《离骚》",
+      "《尚书》",
+      "《周易》",
+      "《论语》",
+      "《孔雀东南飞》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 2,
+    "reviewLevels": [
+      3
+    ],
+    "answer": "《诗经》",
+    "explanation": "《诗经》：中国最早的一部诗歌总集",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 10
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K011",
+    "number": 11,
+    "original": "《离骚》：中国古代最长的（政治）抒情诗",
+    "chapter": "典籍与文人",
+    "term": "《离骚》",
+    "meaning": "中国古代最长的政治抒情诗",
+    "learningGoal": "识别《离骚》与“中国古代最长的政治抒情诗”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《离骚》",
+      "中国古代最长的政治抒情诗"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《尚书》",
+      "《周易》",
+      "《论语》",
+      "《孔雀东南飞》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 2,
+    "reviewLevels": [],
+    "answer": "《离骚》",
+    "explanation": "《离骚》：中国古代最长的（政治）抒情诗",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 11
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K012",
+    "number": 12,
+    "original": "《尚书》（相传是孔子所编）：中国最古的官方史书",
+    "chapter": "典籍与文人",
+    "term": "《尚书》",
+    "meaning": "中国古代的官方史书",
+    "learningGoal": "识别《尚书》与“中国古代的官方史书”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《尚书》",
+      "中国古代的官方史书"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《离骚》",
+      "《周易》",
+      "《论语》",
+      "《孔雀东南飞》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 2,
+    "reviewLevels": [],
+    "answer": "《尚书》",
+    "explanation": "《尚书》（相传是孔子所编）：中国最古的官方史书",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 12
+    },
+    "issue": "“孔子所编”为原资料的传说性归属，不能当成已证实的作者信息。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K013",
+    "number": 13,
+    "original": "《周易》：中国最古的一部占卜用书，最早提出“地理”一词",
+    "chapter": "典籍与文人",
+    "term": "《周易》",
+    "meaning": "原资料中较早提出“地理”一词的书",
+    "learningGoal": "识别《周易》与“原资料中较早提出“地理”一词的书”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《周易》",
+      "原资料中较早提出“地理”一词的书"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《离骚》",
+      "《尚书》",
+      "《论语》",
+      "《孔雀东南飞》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 2,
+    "reviewLevels": [
+      4
+    ],
+    "answer": "《周易》",
+    "explanation": "《周易》：中国最古的一部占卜用书，最早提出“地理”一词",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 13
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K014",
+    "number": 14,
+    "original": "《论语》：中国最早的语录体著作",
+    "chapter": "典籍与文人",
+    "term": "《论语》",
+    "meaning": "中国早期的语录体著作",
+    "learningGoal": "识别《论语》与“中国早期的语录体著作”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《论语》",
+      "中国早期的语录体著作"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《离骚》",
+      "《尚书》",
+      "《周易》",
+      "《孔雀东南飞》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 2,
+    "reviewLevels": [],
+    "answer": "《论语》",
+    "explanation": "《论语》：中国最早的语录体著作",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 14
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K015",
+    "number": 15,
+    "original": "《孔雀东南飞》：最早的叙事诗",
+    "chapter": "典籍与文人",
+    "term": "《孔雀东南飞》",
+    "meaning": "原资料第15条提及的叙事诗",
+    "learningGoal": "识别《孔雀东南飞》与“原资料第15条提及的叙事诗”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《孔雀东南飞》",
+      "原资料第15条提及的叙事诗"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《离骚》",
+      "《尚书》",
+      "《周易》",
+      "《论语》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 2,
+    "reviewLevels": [
+      28
+    ],
+    "answer": "《孔雀东南飞》",
+    "explanation": "《孔雀东南飞》：最早的叙事诗",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 15
+    },
+    "issue": "“最早的叙事诗”缺少“长篇”等范围限定。练习仅识别书名，原文保留，最值断言不进入正误题。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K016",
+    "number": 16,
+    "original": "乐府双璧：《木兰诗》《孔雀东南飞》",
+    "chapter": "典籍与文人",
+    "term": "乐府双璧",
+    "meaning": "《木兰诗》与《孔雀东南飞》的合称",
+    "learningGoal": "识别乐府双璧与“《木兰诗》与《孔雀东南飞》的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《木兰诗》",
+      "《孔雀东南飞》"
+    ],
+    "parts": [
+      "《木兰诗》",
+      "《孔雀东南飞》"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《离骚》",
+      "《尚书》",
+      "《周易》",
+      "《论语》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 2,
+    "reviewLevels": [
+      5
+    ],
+    "answer": "乐府双璧",
+    "explanation": "乐府双璧：《木兰诗》《孔雀东南飞》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 16
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K017",
+    "number": 17,
+    "original": "《说文解字》（东汉许慎编）：最早的字典",
+    "chapter": "典籍与文人",
+    "term": "《说文解字》",
+    "meaning": "东汉许慎编写的字书",
+    "learningGoal": "识别《说文解字》与“东汉许慎编写的字书”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《说文解字》",
+      "东汉许慎编写的字书"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《离骚》",
+      "《尚书》",
+      "《周易》",
+      "《论语》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 3,
+    "reviewLevels": [],
+    "answer": "《说文解字》",
+    "explanation": "《说文解字》（东汉许慎编）：最早的字典",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 17
+    },
+    "issue": "“最早的字典”表述过简；练习只考许慎与《说文解字》的对应。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K018",
+    "number": 18,
+    "original": "《天工开物》（明宋应星著）：世界上第一部关于农业和手工业生产的综合性著作",
+    "chapter": "典籍与文人",
+    "term": "《天工开物》",
+    "meaning": "明代宋应星的农业与手工业著作",
+    "learningGoal": "识别《天工开物》与“明代宋应星的农业与手工业著作”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《天工开物》",
+      "明代宋应星的农业与手工业著作"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《离骚》",
+      "《尚书》",
+      "《周易》",
+      "《论语》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 3,
+    "reviewLevels": [
+      26
+    ],
+    "answer": "《天工开物》",
+    "explanation": "《天工开物》（明宋应星著）：世界上第一部关于农业和手工业生产的综合性著作",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 18
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K019",
+    "number": 19,
+    "original": "《徐霞客游记》：世界上最早介绍喀斯特地貌的著作",
+    "chapter": "典籍与文人",
+    "term": "《徐霞客游记》",
+    "meaning": "介绍喀斯特地貌的著作",
+    "learningGoal": "识别《徐霞客游记》与“介绍喀斯特地貌的著作”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《徐霞客游记》",
+      "介绍喀斯特地貌的著作"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《离骚》",
+      "《尚书》",
+      "《周易》",
+      "《论语》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 3,
+    "reviewLevels": [
+      6
+    ],
+    "answer": "《徐霞客游记》",
+    "explanation": "《徐霞客游记》：世界上最早介绍喀斯特地貌的著作",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 19
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K020",
+    "number": 20,
+    "original": "《四库全书》：我国最大的一部丛书",
+    "chapter": "典籍与文人",
+    "term": "《四库全书》",
+    "meaning": "我国大型丛书",
+    "learningGoal": "识别《四库全书》与“我国大型丛书”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《四库全书》",
+      "我国大型丛书"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《离骚》",
+      "《尚书》",
+      "《周易》",
+      "《论语》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 3,
+    "reviewLevels": [
+      29
+    ],
+    "answer": "《四库全书》",
+    "explanation": "《四库全书》：我国最大的一部丛书",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 20
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K021",
+    "number": 21,
+    "original": "《永乐大典》：世界上有史以来最大的百科全书",
+    "chapter": "典籍与文人",
+    "term": "《永乐大典》",
+    "meaning": "原资料中被称为大型百科全书的典籍",
+    "learningGoal": "识别《永乐大典》与“原资料中被称为大型百科全书的典籍”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《永乐大典》",
+      "原资料中被称为大型百科全书的典籍"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《离骚》",
+      "《尚书》",
+      "《周易》",
+      "《论语》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 3,
+    "reviewLevels": [],
+    "answer": "《永乐大典》",
+    "explanation": "《永乐大典》：世界上有史以来最大的百科全书",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 21
+    },
+    "issue": "“有史以来最大”缺少范围和衡量标准；练习只识别典籍，不考绝对最值。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K022",
+    "number": 22,
+    "original": "《古今图书集成》：我国现存规模最大、资料最丰富的类书",
+    "chapter": "典籍与文人",
+    "term": "《古今图书集成》",
+    "meaning": "我国现存规模宏大、资料丰富的类书",
+    "learningGoal": "识别《古今图书集成》与“我国现存规模宏大、资料丰富的类书”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《古今图书集成》",
+      "我国现存规模宏大、资料丰富的类书"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《离骚》",
+      "《尚书》",
+      "《周易》",
+      "《论语》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 3,
+    "reviewLevels": [
+      7
+    ],
+    "answer": "《古今图书集成》",
+    "explanation": "《古今图书集成》：我国现存规模最大、资料最丰富的类书",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 22
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K023",
+    "number": 23,
+    "original": "晚清四大谴责小说：李宝嘉的《官场现形记》、吴沃尧（吴趼人）的《二十年目睹之怪现状》、刘鹗的《老残游记》、曾朴的《孽海花》",
+    "chapter": "典籍与文人",
+    "term": "晚清四大谴责小说",
+    "meaning": "《官场现形记》等四部晚清小说的合称",
+    "learningGoal": "识别晚清四大谴责小说与“《官场现形记》等四部晚清小说的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《官场现形记》",
+      "《二十年目睹之怪现状》",
+      "《老残游记》",
+      "《孽海花》"
+    ],
+    "parts": [
+      "《官场现形记》",
+      "《二十年目睹之怪现状》",
+      "《老残游记》",
+      "《孽海花》"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《离骚》",
+      "《尚书》",
+      "《周易》",
+      "《论语》"
+    ],
+    "difficulty": 2,
+    "firstLevel": 3,
+    "reviewLevels": [],
+    "answer": "晚清四大谴责小说",
+    "explanation": "晚清四大谴责小说：李宝嘉的《官场现形记》、吴沃尧（吴趼人）的《二十年目睹之怪现状》、刘鹗的《老残游记》、曾朴的《孽海花》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 23
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K024",
+    "number": 24,
+    "original": "谢灵运：最早开创山水诗派的诗人",
+    "chapter": "典籍与文人",
+    "term": "谢灵运",
+    "meaning": "开创山水诗派的诗人",
+    "learningGoal": "识别谢灵运与“开创山水诗派的诗人”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "谢灵运",
+      "开创山水诗派的诗人"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "李白",
+      "杜甫"
+    ],
+    "difficulty": 1,
+    "firstLevel": 3,
+    "reviewLevels": [],
+    "answer": "谢灵运",
+    "explanation": "谢灵运：最早开创山水诗派的诗人",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 24
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K025",
+    "number": 25,
+    "original": "《康熙字典》：收字最多的字典",
+    "chapter": "典籍与文人",
+    "term": "《康熙字典》",
+    "meaning": "原资料第25条列出的字典",
+    "learningGoal": "识别《康熙字典》与“原资料第25条列出的字典”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《康熙字典》",
+      "原资料第25条列出的字典"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《离骚》",
+      "《尚书》",
+      "《周易》",
+      "《论语》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 4,
+    "reviewLevels": [
+      8,
+      30
+    ],
+    "answer": "《康熙字典》",
+    "explanation": "《康熙字典》：收字最多的字典",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 1,
+      "item": 25
+    },
+    "issue": "“收字最多”不能作为无时间范围的现代结论。该条以资料阅读核对方式覆盖，暂不测这个断言。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K026",
+    "number": 26,
+    "original": "《源氏物语》（日本，紫式部）：世界上第一篇长篇小说",
+    "chapter": "典籍与文人",
+    "term": "《源氏物语》",
+    "meaning": "日本紫式部创作的长篇小说",
+    "learningGoal": "识别《源氏物语》与“日本紫式部创作的长篇小说”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《源氏物语》",
+      "日本紫式部创作的长篇小说"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《离骚》",
+      "《尚书》",
+      "《周易》",
+      "《论语》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 4,
+    "reviewLevels": [],
+    "answer": "《源氏物语》",
+    "explanation": "《源氏物语》（日本，紫式部）：世界上第一篇长篇小说",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 26
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K027",
+    "number": 27,
+    "original": "四大民间传说：《牛郎织女》《孟姜女》《梁山伯与祝英台》《白蛇传》",
+    "chapter": "典籍与文人",
+    "term": "四大民间传说",
+    "meaning": "《牛郎织女》等四个民间故事的合称",
+    "learningGoal": "识别四大民间传说与“《牛郎织女》等四个民间故事的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《牛郎织女》",
+      "《孟姜女》",
+      "《梁山伯与祝英台》",
+      "《白蛇传》"
+    ],
+    "parts": [
+      "《牛郎织女》",
+      "《孟姜女》",
+      "《梁山伯与祝英台》",
+      "《白蛇传》"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《离骚》",
+      "《尚书》",
+      "《周易》",
+      "《论语》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 4,
+    "reviewLevels": [],
+    "answer": "四大民间传说",
+    "explanation": "四大民间传说：《牛郎织女》《孟姜女》《梁山伯与祝英台》《白蛇传》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 27
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K028",
+    "number": 28,
+    "original": "三吏：《新安吏》《石壕吏》《潼关吏》",
+    "chapter": "典籍与文人",
+    "term": "三吏",
+    "meaning": "《新安吏》《石壕吏》《潼关吏》的合称",
+    "learningGoal": "识别三吏与“《新安吏》《石壕吏》《潼关吏》的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《新安吏》",
+      "《石壕吏》",
+      "《潼关吏》"
+    ],
+    "parts": [
+      "《新安吏》",
+      "《石壕吏》",
+      "《潼关吏》"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《离骚》",
+      "《尚书》",
+      "《周易》",
+      "《论语》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 4,
+    "reviewLevels": [
+      9
+    ],
+    "answer": "三吏",
+    "explanation": "三吏：《新安吏》《石壕吏》《潼关吏》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 28
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K029",
+    "number": 29,
+    "original": "三别：《新婚别》《垂老别》《无家别》",
+    "chapter": "典籍与文人",
+    "term": "三别",
+    "meaning": "《新婚别》《垂老别》《无家别》的合称",
+    "learningGoal": "识别三别与“《新婚别》《垂老别》《无家别》的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《新婚别》",
+      "《垂老别》",
+      "《无家别》"
+    ],
+    "parts": [
+      "《新婚别》",
+      "《垂老别》",
+      "《无家别》"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "《诗经》",
+      "《离骚》",
+      "《尚书》",
+      "《周易》",
+      "《论语》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 4,
+    "reviewLevels": [],
+    "answer": "三别",
+    "explanation": "三别：《新婚别》《垂老别》《无家别》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 29
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K030",
+    "number": 30,
+    "original": "三曹：曹操、曹植、曹丕",
+    "chapter": "典籍与文人",
+    "term": "三曹",
+    "meaning": "曹操、曹植、曹丕的合称",
+    "learningGoal": "识别三曹与“曹操、曹植、曹丕的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "曹操",
+      "曹植",
+      "曹丕"
+    ],
+    "parts": [
+      "曹操",
+      "曹植",
+      "曹丕"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "三苏",
+      "初唐四杰",
+      "元曲四大家",
+      "汉赋四大家",
+      "北宋四大书法家"
+    ],
+    "difficulty": 1,
+    "firstLevel": 4,
+    "reviewLevels": [],
+    "answer": "三曹",
+    "explanation": "三曹：曹操、曹植、曹丕",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 30
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K031",
+    "number": 31,
+    "original": "三苏：苏轼、苏洵、苏辙",
+    "chapter": "典籍与文人",
+    "term": "三苏",
+    "meaning": "苏轼、苏洵、苏辙的合称",
+    "learningGoal": "识别三苏与“苏轼、苏洵、苏辙的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "苏轼",
+      "苏洵",
+      "苏辙"
+    ],
+    "parts": [
+      "苏轼",
+      "苏洵",
+      "苏辙"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "三曹",
+      "初唐四杰",
+      "元曲四大家",
+      "汉赋四大家",
+      "北宋四大书法家"
+    ],
+    "difficulty": 1,
+    "firstLevel": 4,
+    "reviewLevels": [
+      10
+    ],
+    "answer": "三苏",
+    "explanation": "三苏：苏轼、苏洵、苏辙",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 31
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K032",
+    "number": 32,
+    "original": "初唐四杰：王勃、杨炯、卢照邻、骆宾王",
+    "chapter": "典籍与文人",
+    "term": "初唐四杰",
+    "meaning": "王勃、杨炯、卢照邻、骆宾王的合称",
+    "learningGoal": "识别初唐四杰与“王勃、杨炯、卢照邻、骆宾王的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "王勃",
+      "杨炯",
+      "卢照邻",
+      "骆宾王"
+    ],
+    "parts": [
+      "王勃",
+      "杨炯",
+      "卢照邻",
+      "骆宾王"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "三曹",
+      "三苏",
+      "元曲四大家",
+      "汉赋四大家",
+      "北宋四大书法家"
+    ],
+    "difficulty": 1,
+    "firstLevel": 4,
+    "reviewLevels": [
+      28
+    ],
+    "answer": "初唐四杰",
+    "explanation": "初唐四杰：王勃、杨炯、卢照邻、骆宾王",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 32
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K033",
+    "number": 33,
+    "original": "元曲四大家：关汉卿、马致远、白朴、郑光祖",
+    "chapter": "典籍与文人",
+    "term": "元曲四大家",
+    "meaning": "关汉卿、马致远、白朴、郑光祖的合称",
+    "learningGoal": "识别元曲四大家与“关汉卿、马致远、白朴、郑光祖的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "关汉卿",
+      "马致远",
+      "白朴",
+      "郑光祖"
+    ],
+    "parts": [
+      "关汉卿",
+      "马致远",
+      "白朴",
+      "郑光祖"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "三曹",
+      "三苏",
+      "初唐四杰",
+      "汉赋四大家",
+      "北宋四大书法家"
+    ],
+    "difficulty": 1,
+    "firstLevel": 5,
+    "reviewLevels": [],
+    "answer": "元曲四大家",
+    "explanation": "元曲四大家：关汉卿、马致远、白朴、郑光祖",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 33
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K034",
+    "number": 34,
+    "original": "汉赋四大家：司马相如、扬雄、班固、张衡",
+    "chapter": "典籍与文人",
+    "term": "汉赋四大家",
+    "meaning": "司马相如、扬雄、班固、张衡的合称",
+    "learningGoal": "识别汉赋四大家与“司马相如、扬雄、班固、张衡的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "司马相如",
+      "扬雄",
+      "班固",
+      "张衡"
+    ],
+    "parts": [
+      "司马相如",
+      "扬雄",
+      "班固",
+      "张衡"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "三曹",
+      "三苏",
+      "初唐四杰",
+      "元曲四大家",
+      "北宋四大书法家"
+    ],
+    "difficulty": 1,
+    "firstLevel": 5,
+    "reviewLevels": [
+      11
+    ],
+    "answer": "汉赋四大家",
+    "explanation": "汉赋四大家：司马相如、扬雄、班固、张衡",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 34
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K035",
+    "number": 35,
+    "original": "北宋四大书法家：苏轼、黄庭坚、米芾、蔡襄",
+    "chapter": "典籍与文人",
+    "term": "北宋四大书法家",
+    "meaning": "苏轼、黄庭坚、米芾、蔡襄的合称",
+    "learningGoal": "识别北宋四大书法家与“苏轼、黄庭坚、米芾、蔡襄的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "苏轼",
+      "黄庭坚",
+      "米芾",
+      "蔡襄"
+    ],
+    "parts": [
+      "苏轼",
+      "黄庭坚",
+      "米芾",
+      "蔡襄"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "三曹",
+      "三苏",
+      "初唐四杰",
+      "元曲四大家",
+      "汉赋四大家"
+    ],
+    "difficulty": 1,
+    "firstLevel": 5,
+    "reviewLevels": [
+      26
+    ],
+    "answer": "北宋四大书法家",
+    "explanation": "北宋四大书法家：苏轼、黄庭坚、米芾、蔡襄",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 35
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K036",
+    "number": 36,
+    "original": "楷书四大家：颜真卿、柳公权、欧阳询、赵孟頫",
+    "chapter": "典籍与文人",
+    "term": "楷书四大家",
+    "meaning": "颜真卿、柳公权、欧阳询、赵孟頫的合称",
+    "learningGoal": "识别楷书四大家与“颜真卿、柳公权、欧阳询、赵孟頫的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "颜真卿",
+      "柳公权",
+      "欧阳询",
+      "赵孟頫"
+    ],
+    "parts": [
+      "颜真卿",
+      "柳公权",
+      "欧阳询",
+      "赵孟頫"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "三曹",
+      "三苏",
+      "初唐四杰",
+      "元曲四大家",
+      "汉赋四大家"
+    ],
+    "difficulty": 1,
+    "firstLevel": 5,
+    "reviewLevels": [],
+    "answer": "楷书四大家",
+    "explanation": "楷书四大家：颜真卿、柳公权、欧阳询、赵孟頫",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 36
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K037",
+    "number": 37,
+    "original": "唐宋八大家：韩愈、柳宗元、欧阳修、王安石、曾巩、苏轼、苏洵、苏辙",
+    "chapter": "典籍与文人",
+    "term": "唐宋八大家",
+    "meaning": "韩愈、柳宗元等八位散文家的合称",
+    "learningGoal": "识别唐宋八大家与“韩愈、柳宗元等八位散文家的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "韩愈",
+      "柳宗元",
+      "欧阳修",
+      "王安石",
+      "曾巩",
+      "苏轼",
+      "苏洵",
+      "苏辙"
+    ],
+    "parts": [
+      "韩愈",
+      "柳宗元",
+      "欧阳修",
+      "王安石",
+      "曾巩",
+      "苏轼",
+      "苏洵",
+      "苏辙"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "三曹",
+      "三苏",
+      "初唐四杰",
+      "元曲四大家",
+      "汉赋四大家"
+    ],
+    "difficulty": 3,
+    "firstLevel": 5,
+    "reviewLevels": [
+      12,
+      29
+    ],
+    "answer": "唐宋八大家",
+    "explanation": "唐宋八大家：韩愈、柳宗元、欧阳修、王安石、曾巩、苏轼、苏洵、苏辙",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 37
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K038",
+    "number": 38,
+    "original": "赤子：出生的婴儿（古语称谓）",
+    "chapter": "称谓与礼俗",
+    "term": "赤子",
+    "meaning": "出生的婴儿",
+    "learningGoal": "识别赤子与“出生的婴儿”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "赤子",
+      "出生的婴儿"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "襁褓",
+      "孩提",
+      "豆蔻年华",
+      "舞勺之年",
+      "及笄"
+    ],
+    "difficulty": 1,
+    "firstLevel": 5,
+    "reviewLevels": [],
+    "answer": "赤子",
+    "explanation": "赤子：出生的婴儿（古语称谓）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 38
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K039",
+    "number": 39,
+    "original": "襁褓：不满周岁的婴儿（古语称谓）",
+    "chapter": "称谓与礼俗",
+    "term": "襁褓",
+    "meaning": "不满周岁的婴儿",
+    "learningGoal": "识别襁褓与“不满周岁的婴儿”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "襁褓",
+      "不满周岁的婴儿"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "赤子",
+      "孩提",
+      "豆蔻年华",
+      "舞勺之年",
+      "及笄"
+    ],
+    "difficulty": 1,
+    "firstLevel": 5,
+    "reviewLevels": [],
+    "answer": "襁褓",
+    "explanation": "襁褓：不满周岁的婴儿（古语称谓）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 39
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K040",
+    "number": 40,
+    "original": "孩提：两三岁（古语称谓）",
+    "chapter": "称谓与礼俗",
+    "term": "孩提",
+    "meaning": "两三岁的孩子",
+    "learningGoal": "识别孩提与“两三岁的孩子”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "孩提",
+      "两三岁的孩子"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "赤子",
+      "襁褓",
+      "豆蔻年华",
+      "舞勺之年",
+      "及笄"
+    ],
+    "difficulty": 1,
+    "firstLevel": 5,
+    "reviewLevels": [
+      13,
+      27
+    ],
+    "answer": "孩提",
+    "explanation": "孩提：两三岁（古语称谓）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 40
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K041",
+    "number": 41,
+    "original": "豆蔻年华：十三四岁（女）（古语称谓）",
+    "chapter": "称谓与礼俗",
+    "term": "豆蔻年华",
+    "meaning": "十三四岁的女子",
+    "learningGoal": "识别豆蔻年华与“十三四岁的女子”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "豆蔻年华",
+      "十三四岁的女子"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "赤子",
+      "襁褓",
+      "孩提",
+      "舞勺之年",
+      "及笄"
+    ],
+    "difficulty": 1,
+    "firstLevel": 6,
+    "reviewLevels": [],
+    "answer": "豆蔻年华",
+    "explanation": "豆蔻年华：十三四岁（女）（古语称谓）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 41
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K042",
+    "number": 42,
+    "original": "舞勺之年：十三岁至十五岁（古语称谓）",
+    "chapter": "称谓与礼俗",
+    "term": "舞勺之年",
+    "meaning": "十三岁至十五岁",
+    "learningGoal": "识别舞勺之年与“十三岁至十五岁”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "舞勺之年",
+      "十三岁至十五岁"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "赤子",
+      "襁褓",
+      "孩提",
+      "豆蔻年华",
+      "及笄"
+    ],
+    "difficulty": 1,
+    "firstLevel": 6,
+    "reviewLevels": [
+      30
+    ],
+    "answer": "舞勺之年",
+    "explanation": "舞勺之年：十三岁至十五岁（古语称谓）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 42
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K043",
+    "number": 43,
+    "original": "及笄、笄年：15岁（女）（古语称谓）",
+    "chapter": "称谓与礼俗",
+    "term": "及笄",
+    "meaning": "十五岁的女子",
+    "learningGoal": "识别及笄与“十五岁的女子”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "及笄",
+      "十五岁的女子"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "赤子",
+      "襁褓",
+      "孩提",
+      "豆蔻年华",
+      "舞勺之年"
+    ],
+    "difficulty": 1,
+    "firstLevel": 6,
+    "reviewLevels": [
+      14
+    ],
+    "answer": "及笄",
+    "explanation": "及笄、笄年：15岁（女）（古语称谓）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 43
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K044",
+    "number": 44,
+    "original": "弱冠：20岁（男）（古语称谓）",
+    "chapter": "称谓与礼俗",
+    "term": "弱冠",
+    "meaning": "二十岁的男子",
+    "learningGoal": "识别弱冠与“二十岁的男子”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "弱冠",
+      "二十岁的男子"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "赤子",
+      "襁褓",
+      "孩提",
+      "豆蔻年华",
+      "舞勺之年"
+    ],
+    "difficulty": 1,
+    "firstLevel": 6,
+    "reviewLevels": [],
+    "answer": "弱冠",
+    "explanation": "弱冠：20岁（男）（古语称谓）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 44
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K045",
+    "number": 45,
+    "original": "桃李年华：20岁（女）（古语称谓）",
+    "chapter": "称谓与礼俗",
+    "term": "桃李年华",
+    "meaning": "二十岁的女子",
+    "learningGoal": "识别桃李年华与“二十岁的女子”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "桃李年华",
+      "二十岁的女子"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "赤子",
+      "襁褓",
+      "孩提",
+      "豆蔻年华",
+      "舞勺之年"
+    ],
+    "difficulty": 1,
+    "firstLevel": 6,
+    "reviewLevels": [],
+    "answer": "桃李年华",
+    "explanation": "桃李年华：20岁（女）（古语称谓）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 45
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K046",
+    "number": 46,
+    "original": "花信年华：24岁（女）（古语称谓）",
+    "chapter": "称谓与礼俗",
+    "term": "花信年华",
+    "meaning": "二十四岁的女子",
+    "learningGoal": "识别花信年华与“二十四岁的女子”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "花信年华",
+      "二十四岁的女子"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "赤子",
+      "襁褓",
+      "孩提",
+      "豆蔻年华",
+      "舞勺之年"
+    ],
+    "difficulty": 1,
+    "firstLevel": 6,
+    "reviewLevels": [
+      15
+    ],
+    "answer": "花信年华",
+    "explanation": "花信年华：24岁（女）（古语称谓）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 46
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K047",
+    "number": 47,
+    "original": "而立之年：30岁（男）（古语称谓）",
+    "chapter": "称谓与礼俗",
+    "term": "而立之年",
+    "meaning": "三十岁的男子",
+    "learningGoal": "识别而立之年与“三十岁的男子”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "而立之年",
+      "三十岁的男子"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "赤子",
+      "襁褓",
+      "孩提",
+      "豆蔻年华",
+      "舞勺之年"
+    ],
+    "difficulty": 1,
+    "firstLevel": 6,
+    "reviewLevels": [],
+    "answer": "而立之年",
+    "explanation": "而立之年：30岁（男）（古语称谓）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 47
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K048",
+    "number": 48,
+    "original": "半老徐娘：30岁（女）（古语称谓）",
+    "chapter": "称谓与礼俗",
+    "term": "半老徐娘",
+    "meaning": "原资料中三十岁女子的称谓",
+    "learningGoal": "识别半老徐娘与“原资料中三十岁女子的称谓”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "半老徐娘",
+      "原资料中三十岁女子的称谓"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "赤子",
+      "襁褓",
+      "孩提",
+      "豆蔻年华",
+      "舞勺之年"
+    ],
+    "difficulty": 1,
+    "firstLevel": 6,
+    "reviewLevels": [],
+    "answer": "半老徐娘",
+    "explanation": "半老徐娘：30岁（女）（古语称谓）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 48
+    },
+    "issue": "“半老徐娘”不是严谨的固定年龄分段；本条只核对原资料表述，不作年龄定义。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K049",
+    "number": 49,
+    "original": "鲐背：90岁（古语称谓）",
+    "chapter": "称谓与礼俗",
+    "term": "鲐背",
+    "meaning": "九十岁的称谓",
+    "learningGoal": "识别鲐背与“九十岁的称谓”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "鲐背",
+      "九十岁的称谓"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "赤子",
+      "襁褓",
+      "孩提",
+      "豆蔻年华",
+      "舞勺之年"
+    ],
+    "difficulty": 1,
+    "firstLevel": 7,
+    "reviewLevels": [
+      16
+    ],
+    "answer": "鲐背",
+    "explanation": "鲐背：90岁（古语称谓）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 49
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K050",
+    "number": 50,
+    "original": "期颐：100岁（古语称谓）",
+    "chapter": "称谓与礼俗",
+    "term": "期颐",
+    "meaning": "一百岁的称谓",
+    "learningGoal": "识别期颐与“一百岁的称谓”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "期颐",
+      "一百岁的称谓"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "赤子",
+      "襁褓",
+      "孩提",
+      "豆蔻年华",
+      "舞勺之年"
+    ],
+    "difficulty": 1,
+    "firstLevel": 7,
+    "reviewLevels": [],
+    "answer": "期颐",
+    "explanation": "期颐：100岁（古语称谓）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 50
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K051",
+    "number": 51,
+    "original": "弄璋之喜：庆祝对方生男孩",
+    "chapter": "称谓与礼俗",
+    "term": "弄璋之喜",
+    "meaning": "庆祝对方生男孩",
+    "learningGoal": "识别弄璋之喜与“庆祝对方生男孩”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "弄璋之喜",
+      "庆祝对方生男孩"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "弄瓦之喜",
+      "花信年华"
+    ],
+    "difficulty": 1,
+    "firstLevel": 7,
+    "reviewLevels": [],
+    "answer": "弄璋之喜",
+    "explanation": "弄璋之喜：庆祝对方生男孩",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 51
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K052",
+    "number": 52,
+    "original": "弄瓦之喜：庆祝对方生女孩",
+    "chapter": "称谓与礼俗",
+    "term": "弄瓦之喜",
+    "meaning": "庆祝对方生女孩",
+    "learningGoal": "识别弄瓦之喜与“庆祝对方生女孩”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "弄瓦之喜",
+      "庆祝对方生女孩"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "弄璋之喜",
+      "豆蔻年华"
+    ],
+    "difficulty": 1,
+    "firstLevel": 7,
+    "reviewLevels": [
+      17,
+      26
+    ],
+    "answer": "弄瓦之喜",
+    "explanation": "弄瓦之喜：庆祝对方生女孩",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 52
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K053",
+    "number": 53,
+    "original": "令尊、令堂：对方父母",
+    "chapter": "称谓与礼俗",
+    "term": "令尊、令堂",
+    "meaning": "对方的父母",
+    "learningGoal": "识别令尊、令堂与“对方的父母”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "令尊、令堂",
+      "对方的父母"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "家父、家母",
+      "犬子、小女"
+    ],
+    "difficulty": 1,
+    "firstLevel": 7,
+    "reviewLevels": [],
+    "answer": "令尊、令堂",
+    "explanation": "令尊、令堂：对方父母",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 53
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K054",
+    "number": 54,
+    "original": "令兄、令妹：对方的兄妹",
+    "chapter": "称谓与礼俗",
+    "term": "令兄、令妹",
+    "meaning": "对方的兄妹",
+    "learningGoal": "识别令兄、令妹与“对方的兄妹”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "令兄、令妹",
+      "对方的兄妹"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "舍弟、舍妹",
+      "令郎、令爱"
+    ],
+    "difficulty": 1,
+    "firstLevel": 7,
+    "reviewLevels": [
+      29
+    ],
+    "answer": "令兄、令妹",
+    "explanation": "令兄、令妹：对方的兄妹",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 54
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K055",
+    "number": 55,
+    "original": "令郎、令爱：对方的儿女",
+    "chapter": "称谓与礼俗",
+    "term": "令郎、令爱",
+    "meaning": "对方的儿女",
+    "learningGoal": "识别令郎、令爱与“对方的儿女”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "令郎、令爱",
+      "对方的儿女"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "犬子、小女",
+      "令兄、令妹"
+    ],
+    "difficulty": 1,
+    "firstLevel": 7,
+    "reviewLevels": [
+      18
+    ],
+    "answer": "令郎、令爱",
+    "explanation": "令郎、令爱：对方的儿女",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 2,
+      "item": 55
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K056",
+    "number": 56,
+    "original": "令正：对方的妻子",
+    "chapter": "称谓与礼俗",
+    "term": "令正",
+    "meaning": "对方的妻子",
+    "learningGoal": "识别令正与“对方的妻子”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "令正",
+      "对方的妻子"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "拙荆、贱内",
+      "令尊、令堂"
+    ],
+    "difficulty": 1,
+    "firstLevel": 7,
+    "reviewLevels": [],
+    "answer": "令正",
+    "explanation": "令正：对方的妻子",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 56
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K057",
+    "number": 57,
+    "original": "家父家母：称呼自己的父母",
+    "chapter": "称谓与礼俗",
+    "term": "家父、家母",
+    "meaning": "自己的父母",
+    "learningGoal": "识别家父、家母与“自己的父母”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "家父、家母",
+      "自己的父母"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "令尊、令堂",
+      "令郎、令爱"
+    ],
+    "difficulty": 1,
+    "firstLevel": 8,
+    "reviewLevels": [
+      27
+    ],
+    "answer": "家父、家母",
+    "explanation": "家父家母：称呼自己的父母",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 57
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K058",
+    "number": 58,
+    "original": "舍弟、舍妹：称自己的兄妹",
+    "chapter": "称谓与礼俗",
+    "term": "舍弟、舍妹",
+    "meaning": "自己年幼的弟妹",
+    "learningGoal": "识别舍弟、舍妹与“自己年幼的弟妹”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "舍弟、舍妹",
+      "自己年幼的弟妹"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "令兄、令妹",
+      "家父、家母"
+    ],
+    "difficulty": 1,
+    "firstLevel": 8,
+    "reviewLevels": [
+      19
+    ],
+    "answer": "舍弟、舍妹",
+    "explanation": "舍弟、舍妹：称自己的兄妹",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 58
+    },
+    "issue": "“舍弟、舍妹”与原文“兄妹”范围不一致；练习明确使用“自己年幼的弟妹”。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K059",
+    "number": 59,
+    "original": "拙荆、贱内：称自己的妻子",
+    "chapter": "称谓与礼俗",
+    "term": "拙荆、贱内",
+    "meaning": "自己的妻子",
+    "learningGoal": "识别拙荆、贱内与“自己的妻子”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "拙荆、贱内",
+      "自己的妻子"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "令正",
+      "舍弟、舍妹"
+    ],
+    "difficulty": 1,
+    "firstLevel": 8,
+    "reviewLevels": [
+      30
+    ],
+    "answer": "拙荆、贱内",
+    "explanation": "拙荆、贱内：称自己的妻子",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 59
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K060",
+    "number": 60,
+    "original": "犬子、小女：称自己的儿女",
+    "chapter": "称谓与礼俗",
+    "term": "犬子、小女",
+    "meaning": "自己的儿女",
+    "learningGoal": "识别犬子、小女与“自己的儿女”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "犬子、小女",
+      "自己的儿女"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "令郎、令爱",
+      "令尊、令堂"
+    ],
+    "difficulty": 1,
+    "firstLevel": 8,
+    "reviewLevels": [],
+    "answer": "犬子、小女",
+    "explanation": "犬子、小女：称自己的儿女",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 60
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K061",
+    "number": 61,
+    "original": "冰人：媒人",
+    "chapter": "称谓与礼俗",
+    "term": "冰人",
+    "meaning": "媒人的别称",
+    "learningGoal": "识别冰人与“媒人的别称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "冰人",
+      "媒人的别称"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "杏林",
+      "梨园"
+    ],
+    "difficulty": 1,
+    "firstLevel": 8,
+    "reviewLevels": [
+      20
+    ],
+    "answer": "冰人",
+    "explanation": "冰人：媒人",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 61
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K062",
+    "number": 62,
+    "original": "杏林：医学界，源于三国时期的董奉植杏林",
+    "chapter": "称谓与礼俗",
+    "term": "杏林",
+    "meaning": "医学界的代称",
+    "learningGoal": "识别杏林与“医学界的代称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "杏林",
+      "医学界的代称"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "杏坛",
+      "梨园"
+    ],
+    "difficulty": 1,
+    "firstLevel": 8,
+    "reviewLevels": [],
+    "answer": "杏林",
+    "explanation": "杏林：医学界，源于三国时期的董奉植杏林",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 62
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K063",
+    "number": 63,
+    "original": "梨园：戏曲界",
+    "chapter": "称谓与礼俗",
+    "term": "梨园",
+    "meaning": "戏曲界的代称",
+    "learningGoal": "识别梨园与“戏曲界的代称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "梨园",
+      "戏曲界的代称"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "杏林",
+      "杏坛"
+    ],
+    "difficulty": 1,
+    "firstLevel": 8,
+    "reviewLevels": [],
+    "answer": "梨园",
+    "explanation": "梨园：戏曲界",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 63
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K064",
+    "number": 64,
+    "original": "杏坛：教育界。相传孔子在杏坛设教，收弟子三千，授六艺之学，后称教育界为杏坛",
+    "chapter": "称谓与礼俗",
+    "term": "杏坛",
+    "meaning": "教育界的代称",
+    "learningGoal": "识别杏坛与“教育界的代称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "杏坛",
+      "教育界的代称"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "杏林",
+      "梨园"
+    ],
+    "difficulty": 1,
+    "firstLevel": 8,
+    "reviewLevels": [
+      21
+    ],
+    "answer": "杏坛",
+    "explanation": "杏坛：教育界。相传孔子在杏坛设教，收弟子三千，授六艺之学，后称教育界为杏坛",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 64
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K065",
+    "number": 65,
+    "original": "庖丁：厨师，庖丁指名丁的厨师，出自《庄子》庖丁解牛",
+    "chapter": "称谓与礼俗",
+    "term": "庖丁",
+    "meaning": "出自《庄子》的厨师形象",
+    "learningGoal": "识别庖丁与“出自《庄子》的厨师形象”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "庖丁",
+      "出自《庄子》的厨师形象"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "冰人",
+      "杏林"
+    ],
+    "difficulty": 1,
+    "firstLevel": 9,
+    "reviewLevels": [],
+    "answer": "庖丁",
+    "explanation": "庖丁：厨师，庖丁指名丁的厨师，出自《庄子》庖丁解牛",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 65
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K066",
+    "number": 66,
+    "original": "三山：安徽黄山、江西庐山、浙江雁荡山",
+    "chapter": "山河与人文",
+    "term": "三山",
+    "meaning": "黄山、庐山、雁荡山的合称",
+    "learningGoal": "识别三山与“黄山、庐山、雁荡山的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "黄山",
+      "庐山",
+      "雁荡山"
+    ],
+    "parts": [
+      "黄山",
+      "庐山",
+      "雁荡山"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "五岳",
+      "三大平原",
+      "佛教四大名山",
+      "道教四大名山"
+    ],
+    "difficulty": 1,
+    "firstLevel": 9,
+    "reviewLevels": [],
+    "answer": "三山",
+    "explanation": "三山：安徽黄山、江西庐山、浙江雁荡山",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 66
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K067",
+    "number": 67,
+    "original": "五岳：东岳泰山、西岳华山、南岳衡山、北岳恒山、中岳嵩山",
+    "chapter": "山河与人文",
+    "term": "五岳",
+    "meaning": "泰山、华山、衡山、恒山、嵩山的合称",
+    "learningGoal": "识别五岳与“泰山、华山、衡山、恒山、嵩山的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "泰山",
+      "华山",
+      "衡山",
+      "恒山",
+      "嵩山"
+    ],
+    "parts": [
+      "泰山",
+      "华山",
+      "衡山",
+      "恒山",
+      "嵩山"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "三山",
+      "三大平原",
+      "佛教四大名山",
+      "道教四大名山"
+    ],
+    "difficulty": 3,
+    "firstLevel": 9,
+    "reviewLevels": [
+      22
+    ],
+    "answer": "五岳",
+    "explanation": "五岳：东岳泰山、西岳华山、南岳衡山、北岳恒山、中岳嵩山",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 67
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K068",
+    "number": 68,
+    "original": "三大平原：东北平原：中国面积最大的平原；华北平原：中国人口最多的平原；长江中下游平原：中国经济最发达的平原",
+    "chapter": "山河与人文",
+    "term": "三大平原",
+    "meaning": "东北、华北、长江中下游平原的合称",
+    "learningGoal": "识别三大平原与“东北、华北、长江中下游平原的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "东北平原",
+      "华北平原",
+      "长江中下游平原"
+    ],
+    "parts": [
+      "东北平原",
+      "华北平原",
+      "长江中下游平原"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "三山",
+      "五岳",
+      "佛教四大名山",
+      "道教四大名山"
+    ],
+    "difficulty": 1,
+    "firstLevel": 9,
+    "reviewLevels": [],
+    "answer": "三大平原",
+    "explanation": "三大平原：东北平原：中国面积最大的平原；华北平原：中国人口最多的平原；长江中下游平原：中国经济最发达的平原",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 68
+    },
+    "issue": "人口最多、经济最发达等比较缺少时间和统计口径；只练习三大平原名称。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K069",
+    "number": 69,
+    "original": "佛教四大名山：山西五台山、四川峨眉山、浙江普陀山、安徽九华山（记忆口诀：吾儿华陀）",
+    "chapter": "山河与人文",
+    "term": "佛教四大名山",
+    "meaning": "五台山、峨眉山、普陀山、九华山的合称",
+    "learningGoal": "识别佛教四大名山与“五台山、峨眉山、普陀山、九华山的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "五台山",
+      "峨眉山",
+      "普陀山",
+      "九华山"
+    ],
+    "parts": [
+      "五台山",
+      "峨眉山",
+      "普陀山",
+      "九华山"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "三山",
+      "五岳",
+      "三大平原",
+      "道教四大名山"
+    ],
+    "difficulty": 1,
+    "firstLevel": 9,
+    "reviewLevels": [
+      26
+    ],
+    "answer": "佛教四大名山",
+    "explanation": "佛教四大名山：山西五台山、四川峨眉山、浙江普陀山、安徽九华山（记忆口诀：吾儿华陀）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 69
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K070",
+    "number": 70,
+    "original": "道教四大名山：湖北武当山、四川青城山、江西龙虎山、安徽齐云山（记忆口诀：青龙起舞）",
+    "chapter": "山河与人文",
+    "term": "道教四大名山",
+    "meaning": "武当山、青城山、龙虎山、齐云山的合称",
+    "learningGoal": "识别道教四大名山与“武当山、青城山、龙虎山、齐云山的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "武当山",
+      "青城山",
+      "龙虎山",
+      "齐云山"
+    ],
+    "parts": [
+      "武当山",
+      "青城山",
+      "龙虎山",
+      "齐云山"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "三山",
+      "五岳",
+      "三大平原",
+      "佛教四大名山"
+    ],
+    "difficulty": 1,
+    "firstLevel": 9,
+    "reviewLevels": [
+      23
+    ],
+    "answer": "道教四大名山",
+    "explanation": "道教四大名山：湖北武当山、四川青城山、江西龙虎山、安徽齐云山（记忆口诀：青龙起舞）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 70
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K071",
+    "number": 71,
+    "original": "塔里木河：中国最长的内流河",
+    "chapter": "山河与人文",
+    "term": "塔里木河",
+    "meaning": "中国最长的内流河",
+    "learningGoal": "识别塔里木河与“中国最长的内流河”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "塔里木河",
+      "中国最长的内流河"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "长江",
+      "黄河"
+    ],
+    "difficulty": 1,
+    "firstLevel": 9,
+    "reviewLevels": [
+      29
+    ],
+    "answer": "塔里木河",
+    "explanation": "塔里木河：中国最长的内流河",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 71
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K072",
+    "number": 72,
+    "original": "长江：中国最长河流",
+    "chapter": "山河与人文",
+    "term": "长江",
+    "meaning": "中国最长的河流",
+    "learningGoal": "识别长江与“中国最长的河流”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "长江",
+      "中国最长的河流"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "塔里木河",
+      "黄河"
+    ],
+    "difficulty": 1,
+    "firstLevel": 9,
+    "reviewLevels": [
+      10
+    ],
+    "answer": "长江",
+    "explanation": "长江：中国最长河流",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 72
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K073",
+    "number": 73,
+    "original": "黄河：中国的母亲河，世界上含沙量最大的河",
+    "chapter": "山河与人文",
+    "term": "黄河",
+    "meaning": "被称为中国母亲河的河流",
+    "learningGoal": "识别黄河与“被称为中国母亲河的河流”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "黄河",
+      "被称为中国母亲河的河流"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "塔里木河",
+      "长江"
+    ],
+    "difficulty": 1,
+    "firstLevel": 10,
+    "reviewLevels": [
+      24
+    ],
+    "answer": "黄河",
+    "explanation": "黄河：中国的母亲河，世界上含沙量最大的河",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 73
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K074",
+    "number": 74,
+    "original": "四大发明：造纸术、印刷术、指南针、火药",
+    "chapter": "山河与人文",
+    "term": "四大发明",
+    "meaning": "造纸术、印刷术、指南针、火药的合称",
+    "learningGoal": "识别四大发明与“造纸术、印刷术、指南针、火药的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "造纸术",
+      "印刷术",
+      "指南针",
+      "火药"
+    ],
+    "parts": [
+      "造纸术",
+      "印刷术",
+      "指南针",
+      "火药"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "四大古都",
+      "四大名亭",
+      "四大名园",
+      "颐和园",
+      "故宫"
+    ],
+    "difficulty": 1,
+    "firstLevel": 10,
+    "reviewLevels": [
+      27
+    ],
+    "answer": "四大发明",
+    "explanation": "四大发明：造纸术、印刷术、指南针、火药",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 74
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K075",
+    "number": 75,
+    "original": "四大古都：西安（13）、洛阳（11）、南京（6）、北京（6）",
+    "chapter": "山河与人文",
+    "term": "四大古都",
+    "meaning": "西安、洛阳、南京、北京的合称",
+    "learningGoal": "识别四大古都与“西安、洛阳、南京、北京的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "西安",
+      "洛阳",
+      "南京",
+      "北京"
+    ],
+    "parts": [
+      "西安",
+      "洛阳",
+      "南京",
+      "北京"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "四大发明",
+      "四大名亭",
+      "四大名园",
+      "颐和园",
+      "故宫"
+    ],
+    "difficulty": 1,
+    "firstLevel": 10,
+    "reviewLevels": [],
+    "answer": "四大古都",
+    "explanation": "四大古都：西安（13）、洛阳（11）、南京（6）、北京（6）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 75
+    },
+    "issue": "建都朝代数依统计口径不同可能变化；只练习四大古都名称。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K076",
+    "number": 76,
+    "original": "四大名亭：醉翁亭、陶然亭、爱晚亭、湖心亭",
+    "chapter": "山河与人文",
+    "term": "四大名亭",
+    "meaning": "醉翁亭、陶然亭、爱晚亭、湖心亭的合称",
+    "learningGoal": "识别四大名亭与“醉翁亭、陶然亭、爱晚亭、湖心亭的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "醉翁亭",
+      "陶然亭",
+      "爱晚亭",
+      "湖心亭"
+    ],
+    "parts": [
+      "醉翁亭",
+      "陶然亭",
+      "爱晚亭",
+      "湖心亭"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "四大发明",
+      "四大古都",
+      "四大名园",
+      "颐和园",
+      "故宫"
+    ],
+    "difficulty": 1,
+    "firstLevel": 10,
+    "reviewLevels": [
+      25,
+      30
+    ],
+    "answer": "四大名亭",
+    "explanation": "四大名亭：醉翁亭、陶然亭、爱晚亭、湖心亭",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 76
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K077",
+    "number": 77,
+    "original": "四大名园：北京颐和园、河北承德避暑山庄、苏州拙政园、苏州留园（记忆口诀：郑和去留园避暑）",
+    "chapter": "山河与人文",
+    "term": "四大名园",
+    "meaning": "颐和园、避暑山庄、拙政园、留园的合称",
+    "learningGoal": "识别四大名园与“颐和园、避暑山庄、拙政园、留园的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "颐和园",
+      "避暑山庄",
+      "拙政园",
+      "留园"
+    ],
+    "parts": [
+      "颐和园",
+      "避暑山庄",
+      "拙政园",
+      "留园"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "四大发明",
+      "四大古都",
+      "四大名亭",
+      "颐和园",
+      "故宫"
+    ],
+    "difficulty": 1,
+    "firstLevel": 10,
+    "reviewLevels": [],
+    "answer": "四大名园",
+    "explanation": "四大名园：北京颐和园、河北承德避暑山庄、苏州拙政园、苏州留园（记忆口诀：郑和去留园避暑）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 77
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K078",
+    "number": 78,
+    "original": "颐和园：中国现存最完整的古典皇家园林",
+    "chapter": "山河与人文",
+    "term": "颐和园",
+    "meaning": "我国保存完整的古典皇家园林",
+    "learningGoal": "识别颐和园与“我国保存完整的古典皇家园林”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "颐和园",
+      "我国保存完整的古典皇家园林"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "四大发明",
+      "四大古都",
+      "四大名亭",
+      "四大名园",
+      "故宫"
+    ],
+    "difficulty": 1,
+    "firstLevel": 10,
+    "reviewLevels": [],
+    "answer": "颐和园",
+    "explanation": "颐和园：中国现存最完整的古典皇家园林",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 78
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K079",
+    "number": 79,
+    "original": "故宫：世界现存最大、最完整的木质结构的古建筑群",
+    "chapter": "山河与人文",
+    "term": "故宫",
+    "meaning": "大型木质结构古建筑群",
+    "learningGoal": "识别故宫与“大型木质结构古建筑群”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "故宫",
+      "大型木质结构古建筑群"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "四大发明",
+      "四大古都",
+      "四大名亭",
+      "四大名园",
+      "颐和园"
+    ],
+    "difficulty": 1,
+    "firstLevel": 10,
+    "reviewLevels": [
+      11,
+      28
+    ],
+    "answer": "故宫",
+    "explanation": "故宫：世界现存最大、最完整的木质结构的古建筑群",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 79
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K080",
+    "number": 80,
+    "original": "四大名楼：湖南岳阳楼、湖北黄鹤楼、江西滕王阁、山西鹳雀楼（记忆口诀：飞黄腾达，欢呼雀跃）",
+    "chapter": "山河与人文",
+    "term": "四大名楼",
+    "meaning": "岳阳楼、黄鹤楼、滕王阁、鹳雀楼的合称",
+    "learningGoal": "识别四大名楼与“岳阳楼、黄鹤楼、滕王阁、鹳雀楼的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "岳阳楼",
+      "黄鹤楼",
+      "滕王阁",
+      "鹳雀楼"
+    ],
+    "parts": [
+      "岳阳楼",
+      "黄鹤楼",
+      "滕王阁",
+      "鹳雀楼"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "四大发明",
+      "四大古都",
+      "四大名亭",
+      "四大名园",
+      "颐和园"
+    ],
+    "difficulty": 1,
+    "firstLevel": 10,
+    "reviewLevels": [],
+    "answer": "四大名楼",
+    "explanation": "四大名楼：湖南岳阳楼、湖北黄鹤楼、江西滕王阁、山西鹳雀楼（记忆口诀：飞黄腾达，欢呼雀跃）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 3,
+      "item": 80
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K081",
+    "number": 81,
+    "original": "四大书院：睢阳书院（应天书院）、岳麓书院、白鹿洞书院、嵩阳书院（记忆口诀：岁月松柏）",
+    "chapter": "山河与人文",
+    "term": "四大书院",
+    "meaning": "睢阳、岳麓、白鹿洞、嵩阳书院的合称",
+    "learningGoal": "识别四大书院与“睢阳、岳麓、白鹿洞、嵩阳书院的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "睢阳书院",
+      "岳麓书院",
+      "白鹿洞书院",
+      "嵩阳书院"
+    ],
+    "parts": [
+      "睢阳书院",
+      "岳麓书院",
+      "白鹿洞书院",
+      "嵩阳书院"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "四大发明",
+      "四大古都",
+      "四大名亭",
+      "四大名园",
+      "颐和园"
+    ],
+    "difficulty": 1,
+    "firstLevel": 11,
+    "reviewLevels": [],
+    "answer": "四大书院",
+    "explanation": "四大书院：睢阳书院（应天书院）、岳麓书院、白鹿洞书院、嵩阳书院（记忆口诀：岁月松柏）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 81
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K082",
+    "number": 82,
+    "original": "四大高原：青藏高原（中国最大、世界海拔最高的高原、世界屋脊）、内蒙古高原（中国第二大高原）、云贵高原、黄土高原",
+    "chapter": "山河与人文",
+    "term": "四大高原",
+    "meaning": "青藏、内蒙古、云贵、黄土高原的合称",
+    "learningGoal": "识别四大高原与“青藏、内蒙古、云贵、黄土高原的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "青藏高原",
+      "内蒙古高原",
+      "云贵高原",
+      "黄土高原"
+    ],
+    "parts": [
+      "青藏高原",
+      "内蒙古高原",
+      "云贵高原",
+      "黄土高原"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "四大发明",
+      "四大古都",
+      "四大名亭",
+      "四大名园",
+      "颐和园"
+    ],
+    "difficulty": 1,
+    "firstLevel": 11,
+    "reviewLevels": [],
+    "answer": "四大高原",
+    "explanation": "四大高原：青藏高原（中国最大、世界海拔最高的高原、世界屋脊）、内蒙古高原（中国第二大高原）、云贵高原、黄土高原",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 82
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K083",
+    "number": 83,
+    "original": "中国四大海（从北到南）：渤海—黄海—东海—南海",
+    "chapter": "山河与人文",
+    "term": "中国四大海",
+    "meaning": "渤海、黄海、东海、南海的合称",
+    "learningGoal": "识别中国四大海与“渤海、黄海、东海、南海的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "渤海",
+      "黄海",
+      "东海",
+      "南海"
+    ],
+    "parts": [
+      "渤海",
+      "黄海",
+      "东海",
+      "南海"
+    ],
+    "ordered": true,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "四大发明",
+      "四大古都",
+      "四大名亭",
+      "四大名园",
+      "颐和园"
+    ],
+    "difficulty": 1,
+    "firstLevel": 11,
+    "reviewLevels": [],
+    "answer": "中国四大海",
+    "explanation": "中国四大海（从北到南）：渤海—黄海—东海—南海",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 83
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K084",
+    "number": 84,
+    "original": "四大名绣：苏绣、湘绣、蜀绣、粤绣",
+    "chapter": "山河与人文",
+    "term": "四大名绣",
+    "meaning": "苏绣、湘绣、蜀绣、粤绣的合称",
+    "learningGoal": "识别四大名绣与“苏绣、湘绣、蜀绣、粤绣的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "苏绣",
+      "湘绣",
+      "蜀绣",
+      "粤绣"
+    ],
+    "parts": [
+      "苏绣",
+      "湘绣",
+      "蜀绣",
+      "粤绣"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "四大发明",
+      "四大古都",
+      "四大名亭",
+      "四大名园",
+      "颐和园"
+    ],
+    "difficulty": 1,
+    "firstLevel": 11,
+    "reviewLevels": [],
+    "answer": "四大名绣",
+    "explanation": "四大名绣：苏绣、湘绣、蜀绣、粤绣",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 84
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K085",
+    "number": 85,
+    "original": "四大石窟：云冈石窟、龙门石窟、麦积山石窟、敦煌莫高窟",
+    "chapter": "山河与人文",
+    "term": "四大石窟",
+    "meaning": "云冈、龙门、麦积山、敦煌莫高窟的合称",
+    "learningGoal": "识别四大石窟与“云冈、龙门、麦积山、敦煌莫高窟的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "云冈石窟",
+      "龙门石窟",
+      "麦积山石窟",
+      "敦煌莫高窟"
+    ],
+    "parts": [
+      "云冈石窟",
+      "龙门石窟",
+      "麦积山石窟",
+      "敦煌莫高窟"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "四大发明",
+      "四大古都",
+      "四大名亭",
+      "四大名园",
+      "颐和园"
+    ],
+    "difficulty": 1,
+    "firstLevel": 11,
+    "reviewLevels": [],
+    "answer": "四大石窟",
+    "explanation": "四大石窟：云冈石窟、龙门石窟、麦积山石窟、敦煌莫高窟",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 85
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K086",
+    "number": 86,
+    "original": "文人四友：琴、棋、书、画",
+    "chapter": "山河与人文",
+    "term": "文人四友",
+    "meaning": "琴、棋、书、画的合称",
+    "learningGoal": "识别文人四友与“琴、棋、书、画的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "琴",
+      "棋",
+      "书",
+      "画"
+    ],
+    "parts": [
+      "琴",
+      "棋",
+      "书",
+      "画"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "四大发明",
+      "四大古都",
+      "四大名亭",
+      "四大名园",
+      "颐和园"
+    ],
+    "difficulty": 1,
+    "firstLevel": 11,
+    "reviewLevels": [
+      12,
+      26
+    ],
+    "answer": "文人四友",
+    "explanation": "文人四友：琴、棋、书、画",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 86
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K087",
+    "number": 87,
+    "original": "文房四宝：笔、墨、纸、砚",
+    "chapter": "山河与人文",
+    "term": "文房四宝",
+    "meaning": "笔、墨、纸、砚的合称",
+    "learningGoal": "识别文房四宝与“笔、墨、纸、砚的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "笔",
+      "墨",
+      "纸",
+      "砚"
+    ],
+    "parts": [
+      "笔",
+      "墨",
+      "纸",
+      "砚"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "四大发明",
+      "四大古都",
+      "四大名亭",
+      "四大名园",
+      "颐和园"
+    ],
+    "difficulty": 1,
+    "firstLevel": 11,
+    "reviewLevels": [],
+    "answer": "文房四宝",
+    "explanation": "文房四宝：笔、墨、纸、砚",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 87
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K088",
+    "number": 88,
+    "original": "六艺：礼、乐、射、御、书、数",
+    "chapter": "山河与人文",
+    "term": "六艺",
+    "meaning": "礼、乐、射、御、书、数的合称",
+    "learningGoal": "识别六艺与“礼、乐、射、御、书、数的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "礼",
+      "乐",
+      "射",
+      "御",
+      "书",
+      "数"
+    ],
+    "parts": [
+      "礼",
+      "乐",
+      "射",
+      "御",
+      "书",
+      "数"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "四大发明",
+      "四大古都",
+      "四大名亭",
+      "四大名园",
+      "颐和园"
+    ],
+    "difficulty": 3,
+    "firstLevel": 11,
+    "reviewLevels": [],
+    "answer": "六艺",
+    "explanation": "六艺：礼、乐、射、御、书、数",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 88
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K089",
+    "number": 89,
+    "original": "宋五大名窑：哥窑、汝窑、定窑、官窑、钧窑",
+    "chapter": "山河与人文",
+    "term": "宋五大名窑",
+    "meaning": "哥、汝、定、官、钧五座名窑的合称",
+    "learningGoal": "识别宋五大名窑与“哥、汝、定、官、钧五座名窑的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "哥窑",
+      "汝窑",
+      "定窑",
+      "官窑",
+      "钧窑"
+    ],
+    "parts": [
+      "哥窑",
+      "汝窑",
+      "定窑",
+      "官窑",
+      "钧窑"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "四大发明",
+      "四大古都",
+      "四大名亭",
+      "四大名园",
+      "颐和园"
+    ],
+    "difficulty": 3,
+    "firstLevel": 12,
+    "reviewLevels": [],
+    "answer": "宋五大名窑",
+    "explanation": "宋五大名窑：哥窑、汝窑、定窑、官窑、钧窑",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 89
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K090",
+    "number": 90,
+    "original": "科考三元：解元（乡试）、会元（会试）、状元（殿试）",
+    "chapter": "山河与人文",
+    "term": "科考三元",
+    "meaning": "解元、会元、状元的合称",
+    "learningGoal": "识别科考三元与“解元、会元、状元的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "解元",
+      "会元",
+      "状元"
+    ],
+    "parts": [
+      "解元",
+      "会元",
+      "状元"
+    ],
+    "ordered": true,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "四大发明",
+      "四大古都",
+      "四大名亭",
+      "四大名园",
+      "颐和园"
+    ],
+    "difficulty": 1,
+    "firstLevel": 12,
+    "reviewLevels": [],
+    "answer": "科考三元",
+    "explanation": "科考三元：解元（乡试）、会元（会试）、状元（殿试）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 90
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K091",
+    "number": 91,
+    "original": "三鼎甲：状元、榜眼、探花",
+    "chapter": "山河与人文",
+    "term": "三鼎甲",
+    "meaning": "状元、榜眼、探花的合称",
+    "learningGoal": "识别三鼎甲与“状元、榜眼、探花的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "状元",
+      "榜眼",
+      "探花"
+    ],
+    "parts": [
+      "状元",
+      "榜眼",
+      "探花"
+    ],
+    "ordered": true,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "四大发明",
+      "四大古都",
+      "四大名亭",
+      "四大名园",
+      "颐和园"
+    ],
+    "difficulty": 1,
+    "firstLevel": 12,
+    "reviewLevels": [
+      27
+    ],
+    "answer": "三鼎甲",
+    "explanation": "三鼎甲：状元、榜眼、探花",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 91
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K092",
+    "number": 92,
+    "original": "《神农本草经》：中国第一部完整的药物学著作",
+    "chapter": "山河与人文",
+    "term": "《神农本草经》",
+    "meaning": "中国早期完整的药物学著作",
+    "learningGoal": "识别《神农本草经》与“中国早期完整的药物学著作”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《神农本草经》",
+      "中国早期完整的药物学著作"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《唐本草》",
+      "三山",
+      "五岳",
+      "三大平原",
+      "佛教四大名山"
+    ],
+    "difficulty": 1,
+    "firstLevel": 12,
+    "reviewLevels": [],
+    "answer": "《神农本草经》",
+    "explanation": "《神农本草经》：中国第一部完整的药物学著作",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 92
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K093",
+    "number": 93,
+    "original": "《唐本草》（唐高宗时修）：世界上最早的、由国家颁布的药典",
+    "chapter": "山河与人文",
+    "term": "《唐本草》",
+    "meaning": "唐高宗时期修订、由国家颁布的药典",
+    "learningGoal": "识别《唐本草》与“唐高宗时期修订、由国家颁布的药典”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《唐本草》",
+      "唐高宗时期修订、由国家颁布的药典"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《神农本草经》",
+      "三山",
+      "五岳",
+      "三大平原",
+      "佛教四大名山"
+    ],
+    "difficulty": 1,
+    "firstLevel": 12,
+    "reviewLevels": [
+      13,
+      30
+    ],
+    "answer": "《唐本草》",
+    "explanation": "《唐本草》（唐高宗时修）：世界上最早的、由国家颁布的药典",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 93
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K094",
+    "number": 94,
+    "original": "文艺复兴文学三杰：但丁、彼特拉克、薄伽丘",
+    "chapter": "山河与人文",
+    "term": "文艺复兴文学三杰",
+    "meaning": "但丁、彼特拉克、薄伽丘的合称",
+    "learningGoal": "识别文艺复兴文学三杰与“但丁、彼特拉克、薄伽丘的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "但丁",
+      "彼特拉克",
+      "薄伽丘"
+    ],
+    "parts": [
+      "但丁",
+      "彼特拉克",
+      "薄伽丘"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "文艺复兴美术三杰",
+      "三山",
+      "五岳",
+      "三大平原",
+      "佛教四大名山"
+    ],
+    "difficulty": 1,
+    "firstLevel": 12,
+    "reviewLevels": [],
+    "answer": "文艺复兴文学三杰",
+    "explanation": "文艺复兴文学三杰：但丁、彼特拉克、薄伽丘",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 94
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K095",
+    "number": 95,
+    "original": "文艺复兴美术三杰：达·芬奇、米开朗琪罗、拉斐尔",
+    "chapter": "山河与人文",
+    "term": "文艺复兴美术三杰",
+    "meaning": "达·芬奇、米开朗琪罗、拉斐尔的合称",
+    "learningGoal": "识别文艺复兴美术三杰与“达·芬奇、米开朗琪罗、拉斐尔的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "达·芬奇",
+      "米开朗琪罗",
+      "拉斐尔"
+    ],
+    "parts": [
+      "达·芬奇",
+      "米开朗琪罗",
+      "拉斐尔"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "文艺复兴文学三杰",
+      "三山",
+      "五岳",
+      "三大平原",
+      "佛教四大名山"
+    ],
+    "difficulty": 1,
+    "firstLevel": 12,
+    "reviewLevels": [],
+    "answer": "文艺复兴美术三杰",
+    "explanation": "文艺复兴美术三杰：达·芬奇、米开朗琪罗、拉斐尔",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 95
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K096",
+    "number": 96,
+    "original": "春秋五霸：齐桓公、晋文公、楚庄王、吴王阖闾、越王勾践",
+    "chapter": "历史长廊",
+    "term": "春秋五霸",
+    "meaning": "原资料所列齐桓公等五位霸主的合称",
+    "learningGoal": "识别春秋五霸与“原资料所列齐桓公等五位霸主的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "齐桓公",
+      "晋文公",
+      "楚庄王",
+      "吴王阖闾",
+      "越王勾践"
+    ],
+    "parts": [
+      "齐桓公",
+      "晋文公",
+      "楚庄王",
+      "吴王阖闾",
+      "越王勾践"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "战国七雄",
+      "桂陵之战",
+      "战国四公子",
+      "战国四大名将"
+    ],
+    "difficulty": 3,
+    "firstLevel": 12,
+    "reviewLevels": [
+      28
+    ],
+    "answer": "春秋五霸",
+    "explanation": "春秋五霸：齐桓公、晋文公、楚庄王、吴王阖闾、越王勾践",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 96
+    },
+    "issue": "“春秋五霸”存在不同版本，本游戏标明采用这份原资料的版本。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K097",
+    "number": 97,
+    "original": "战国七雄：齐、楚、燕、韩、赵、魏、秦（秦统一，喊赵薇去演戏）",
+    "chapter": "历史长廊",
+    "term": "战国七雄",
+    "meaning": "齐、楚、燕、韩、赵、魏、秦的合称",
+    "learningGoal": "识别战国七雄与“齐、楚、燕、韩、赵、魏、秦的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "齐",
+      "楚",
+      "燕",
+      "韩",
+      "赵",
+      "魏",
+      "秦"
+    ],
+    "parts": [
+      "齐",
+      "楚",
+      "燕",
+      "韩",
+      "赵",
+      "魏",
+      "秦"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "春秋五霸",
+      "桂陵之战",
+      "战国四公子",
+      "战国四大名将"
+    ],
+    "difficulty": 3,
+    "firstLevel": 13,
+    "reviewLevels": [],
+    "answer": "战国七雄",
+    "explanation": "战国七雄：齐、楚、燕、韩、赵、魏、秦（秦统一，喊赵薇去演戏）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 97
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K098",
+    "number": 98,
+    "original": "战国著名战争：桂陵之战（围魏救赵）、长平之战（赵括纸上谈兵）、马陵之战（减灶计）",
+    "chapter": "历史长廊",
+    "term": "桂陵之战",
+    "meaning": "与“围魏救赵”相联系的战役",
+    "learningGoal": "识别桂陵之战与“与“围魏救赵”相联系的战役”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "桂陵之战",
+      "与“围魏救赵”相联系的战役"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "长平之战",
+      "马陵之战"
+    ],
+    "difficulty": 1,
+    "firstLevel": 13,
+    "reviewLevels": [],
+    "answer": "桂陵之战",
+    "explanation": "战国著名战争：桂陵之战（围魏救赵）、长平之战（赵括纸上谈兵）、马陵之战（减灶计）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 98
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K099",
+    "number": 99,
+    "original": "战国四公子：魏国的信陵君魏无忌、赵国的平原君赵胜、楚国的春申君黄歇、齐国的孟尝君田文",
+    "chapter": "历史长廊",
+    "term": "战国四公子",
+    "meaning": "信陵君、平原君、春申君、孟尝君的合称",
+    "learningGoal": "识别战国四公子与“信陵君、平原君、春申君、孟尝君的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "信陵君",
+      "平原君",
+      "春申君",
+      "孟尝君"
+    ],
+    "parts": [
+      "信陵君",
+      "平原君",
+      "春申君",
+      "孟尝君"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "春秋五霸",
+      "战国七雄",
+      "桂陵之战",
+      "战国四大名将"
+    ],
+    "difficulty": 1,
+    "firstLevel": 13,
+    "reviewLevels": [],
+    "answer": "战国四公子",
+    "explanation": "战国四公子：魏国的信陵君魏无忌、赵国的平原君赵胜、楚国的春申君黄歇、齐国的孟尝君田文",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 99
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K100",
+    "number": 100,
+    "original": "战国四大名将：白起、廉颇、李牧、王翦",
+    "chapter": "历史长廊",
+    "term": "战国四大名将",
+    "meaning": "白起、廉颇、李牧、王翦的合称",
+    "learningGoal": "识别战国四大名将与“白起、廉颇、李牧、王翦的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "白起",
+      "廉颇",
+      "李牧",
+      "王翦"
+    ],
+    "parts": [
+      "白起",
+      "廉颇",
+      "李牧",
+      "王翦"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "春秋五霸",
+      "战国七雄",
+      "桂陵之战",
+      "战国四公子"
+    ],
+    "difficulty": 1,
+    "firstLevel": 13,
+    "reviewLevels": [
+      14
+    ],
+    "answer": "战国四大名将",
+    "explanation": "战国四大名将：白起、廉颇、李牧、王翦",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 100
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K101",
+    "number": 101,
+    "original": "文景之治：西汉，汉文帝、汉景帝，中国封建社会第一个治世",
+    "chapter": "历史长廊",
+    "term": "文景之治",
+    "meaning": "西汉汉文帝、汉景帝时期的治世",
+    "learningGoal": "识别文景之治与“西汉汉文帝、汉景帝时期的治世”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "文景之治",
+      "西汉汉文帝、汉景帝时期的治世"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "光武中兴",
+      "贞观之治",
+      "开元之治"
+    ],
+    "difficulty": 1,
+    "firstLevel": 13,
+    "reviewLevels": [],
+    "answer": "文景之治",
+    "explanation": "文景之治：西汉，汉文帝、汉景帝，中国封建社会第一个治世",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 101
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K102",
+    "number": 102,
+    "original": "光武中兴：东汉光武帝刘秀统治时期出现的治世",
+    "chapter": "历史长廊",
+    "term": "光武中兴",
+    "meaning": "东汉光武帝刘秀时期的治世",
+    "learningGoal": "识别光武中兴与“东汉光武帝刘秀时期的治世”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "光武中兴",
+      "东汉光武帝刘秀时期的治世"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "文景之治",
+      "贞观之治",
+      "开元之治"
+    ],
+    "difficulty": 1,
+    "firstLevel": 13,
+    "reviewLevels": [],
+    "answer": "光武中兴",
+    "explanation": "光武中兴：东汉光武帝刘秀统治时期出现的治世",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 102
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K103",
+    "number": 103,
+    "original": "贞观之治：唐朝，唐太宗李世民统治时期出现的治世",
+    "chapter": "历史长廊",
+    "term": "贞观之治",
+    "meaning": "唐太宗李世民时期的治世",
+    "learningGoal": "识别贞观之治与“唐太宗李世民时期的治世”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "贞观之治",
+      "唐太宗李世民时期的治世"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "文景之治",
+      "光武中兴",
+      "开元之治"
+    ],
+    "difficulty": 1,
+    "firstLevel": 13,
+    "reviewLevels": [
+      26
+    ],
+    "answer": "贞观之治",
+    "explanation": "贞观之治：唐朝，唐太宗李世民统治时期出现的治世",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 103
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K104",
+    "number": 104,
+    "original": "开元之治：唐朝，唐玄宗李隆基统治时期出现的治世",
+    "chapter": "历史长廊",
+    "term": "开元之治",
+    "meaning": "唐玄宗李隆基时期的治世",
+    "learningGoal": "识别开元之治与“唐玄宗李隆基时期的治世”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "开元之治",
+      "唐玄宗李隆基时期的治世"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "文景之治",
+      "光武中兴",
+      "贞观之治"
+    ],
+    "difficulty": 1,
+    "firstLevel": 13,
+    "reviewLevels": [],
+    "answer": "开元之治",
+    "explanation": "开元之治：唐朝，唐玄宗李隆基统治时期出现的治世",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 4,
+      "item": 104
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K105",
+    "number": 105,
+    "original": "牧野之战（周武王VS商纣王）——以少胜多著名战争",
+    "chapter": "历史长廊",
+    "term": "牧野之战",
+    "meaning": "周武王与商纣王之间的战役",
+    "learningGoal": "识别牧野之战与“周武王与商纣王之间的战役”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "牧野之战",
+      "周武王与商纣王之间的战役"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "巨鹿之战",
+      "官渡之战",
+      "赤壁之战",
+      "淝水之战"
+    ],
+    "difficulty": 1,
+    "firstLevel": 14,
+    "reviewLevels": [],
+    "answer": "牧野之战",
+    "explanation": "牧野之战（周武王VS商纣王）——以少胜多著名战争",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 105
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K106",
+    "number": 106,
+    "original": "巨鹿之战（项羽VS秦名将章邯、王离）——以少胜多著名战争",
+    "chapter": "历史长廊",
+    "term": "巨鹿之战",
+    "meaning": "项羽与秦军之间的著名战役",
+    "learningGoal": "识别巨鹿之战与“项羽与秦军之间的著名战役”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "巨鹿之战",
+      "项羽与秦军之间的著名战役"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "牧野之战",
+      "官渡之战",
+      "赤壁之战",
+      "淝水之战"
+    ],
+    "difficulty": 1,
+    "firstLevel": 14,
+    "reviewLevels": [],
+    "answer": "巨鹿之战",
+    "explanation": "巨鹿之战（项羽VS秦名将章邯、王离）——以少胜多著名战争",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 106
+    },
+    "issue": "巨鹿之战参战与指挥关系在原文中被简化；练习只考项羽与秦军的对应。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K107",
+    "number": 107,
+    "original": "官渡之战（曹操VS袁绍）——以少胜多著名战争",
+    "chapter": "历史长廊",
+    "term": "官渡之战",
+    "meaning": "曹操与袁绍之间的战役",
+    "learningGoal": "识别官渡之战与“曹操与袁绍之间的战役”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "官渡之战",
+      "曹操与袁绍之间的战役"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "牧野之战",
+      "巨鹿之战",
+      "赤壁之战",
+      "淝水之战"
+    ],
+    "difficulty": 1,
+    "firstLevel": 14,
+    "reviewLevels": [
+      15
+    ],
+    "answer": "官渡之战",
+    "explanation": "官渡之战（曹操VS袁绍）——以少胜多著名战争",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 107
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K108",
+    "number": 108,
+    "original": "赤壁之战（孙权刘备VS曹操）——以少胜多著名战争",
+    "chapter": "历史长廊",
+    "term": "赤壁之战",
+    "meaning": "孙权、刘备联合对抗曹操的战役",
+    "learningGoal": "识别赤壁之战与“孙权、刘备联合对抗曹操的战役”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "赤壁之战",
+      "孙权、刘备联合对抗曹操的战役"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "牧野之战",
+      "巨鹿之战",
+      "官渡之战",
+      "淝水之战"
+    ],
+    "difficulty": 1,
+    "firstLevel": 14,
+    "reviewLevels": [
+      27
+    ],
+    "answer": "赤壁之战",
+    "explanation": "赤壁之战（孙权刘备VS曹操）——以少胜多著名战争",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 108
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K109",
+    "number": 109,
+    "original": "淝水之战（东晋谢安VS前秦苻坚）——以少胜多著名战争",
+    "chapter": "历史长廊",
+    "term": "淝水之战",
+    "meaning": "东晋与前秦之间的著名战役",
+    "learningGoal": "识别淝水之战与“东晋与前秦之间的著名战役”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "淝水之战",
+      "东晋与前秦之间的著名战役"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "牧野之战",
+      "巨鹿之战",
+      "官渡之战",
+      "赤壁之战"
+    ],
+    "difficulty": 1,
+    "firstLevel": 14,
+    "reviewLevels": [],
+    "answer": "淝水之战",
+    "explanation": "淝水之战（东晋谢安VS前秦苻坚）——以少胜多著名战争",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 109
+    },
+    "issue": "原资料简化了政治统领与前线指挥的区别；练习只考交战政权。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K110",
+    "number": 110,
+    "original": "大泽乡起义：秦朝末年，陈胜、吴广起义，中国历史上第一次大规模的农民起义",
+    "chapter": "历史长廊",
+    "term": "大泽乡起义",
+    "meaning": "秦朝末年陈胜、吴广发动的起义",
+    "learningGoal": "识别大泽乡起义与“秦朝末年陈胜、吴广发动的起义”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "大泽乡起义",
+      "秦朝末年陈胜、吴广发动的起义"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "黄巾起义",
+      "春秋五霸",
+      "战国七雄",
+      "桂陵之战",
+      "战国四公子"
+    ],
+    "difficulty": 1,
+    "firstLevel": 14,
+    "reviewLevels": [
+      30
+    ],
+    "answer": "大泽乡起义",
+    "explanation": "大泽乡起义：秦朝末年，陈胜、吴广起义，中国历史上第一次大规模的农民起义",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 110
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K111",
+    "number": 111,
+    "original": "黄巾起义：东汉末年，张角，“苍天已死，黄天当立，岁在甲子，天下大吉”",
+    "chapter": "历史长廊",
+    "term": "黄巾起义",
+    "meaning": "东汉末年张角领导的起义",
+    "learningGoal": "识别黄巾起义与“东汉末年张角领导的起义”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "黄巾起义",
+      "东汉末年张角领导的起义"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "大泽乡起义",
+      "春秋五霸",
+      "战国七雄",
+      "桂陵之战",
+      "战国四公子"
+    ],
+    "difficulty": 1,
+    "firstLevel": 14,
+    "reviewLevels": [],
+    "answer": "黄巾起义",
+    "explanation": "黄巾起义：东汉末年，张角，“苍天已死，黄天当立，岁在甲子，天下大吉”",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 111
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K112",
+    "number": 112,
+    "original": "迪亚士率船队抵达非洲西南端的好望角（好 +",
+    "chapter": "历史长廊",
+    "term": "迪亚士",
+    "meaning": "率船队抵达非洲西南端好望角的航海家",
+    "learningGoal": "识别迪亚士与“率船队抵达非洲西南端好望角的航海家”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "迪亚士",
+      "率船队抵达非洲西南端好望角的航海家"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "哥伦布",
+      "达·伽马",
+      "麦哲伦"
+    ],
+    "difficulty": 1,
+    "firstLevel": 14,
+    "reviewLevels": [],
+    "answer": "迪亚士",
+    "explanation": "迪亚士率船队抵达非洲西南端的好望角（好 +",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 112
+    },
+    "issue": "原页末尾的口诀“（好 +”不完整；保留这一缺损，不猜补口诀。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K113",
+    "number": 113,
+    "original": "哥伦布开辟通往美洲的新航路（美哥）",
+    "chapter": "历史长廊",
+    "term": "哥伦布",
+    "meaning": "开辟通往美洲新航路的航海家",
+    "learningGoal": "识别哥伦布与“开辟通往美洲新航路的航海家”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "哥伦布",
+      "开辟通往美洲新航路的航海家"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "迪亚士",
+      "达·伽马",
+      "麦哲伦"
+    ],
+    "difficulty": 1,
+    "firstLevel": 15,
+    "reviewLevels": [
+      28
+    ],
+    "answer": "哥伦布",
+    "explanation": "哥伦布开辟通往美洲的新航路（美哥）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 113
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K114",
+    "number": 114,
+    "original": "达·伽马开辟欧洲从海上直通印度的新航路",
+    "chapter": "历史长廊",
+    "term": "达·伽马",
+    "meaning": "开辟欧洲海上直通印度新航路的航海家",
+    "learningGoal": "识别达·伽马与“开辟欧洲海上直通印度新航路的航海家”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "达·伽马",
+      "开辟欧洲海上直通印度新航路的航海家"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "迪亚士",
+      "哥伦布",
+      "麦哲伦"
+    ],
+    "difficulty": 1,
+    "firstLevel": 15,
+    "reviewLevels": [
+      16
+    ],
+    "answer": "达·伽马",
+    "explanation": "达·伽马开辟欧洲从海上直通印度的新航路",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 114
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K115",
+    "number": 115,
+    "original": "麦哲伦完成了穿越大西洋、太平洋、印度洋，再返回欧洲的环球航行，证实了地圆学说",
+    "chapter": "历史长廊",
+    "term": "麦哲伦",
+    "meaning": "原资料中与环球航行相联系的航海家",
+    "learningGoal": "识别麦哲伦与“原资料中与环球航行相联系的航海家”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "麦哲伦",
+      "原资料中与环球航行相联系的航海家"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "迪亚士",
+      "哥伦布",
+      "达·伽马"
+    ],
+    "difficulty": 1,
+    "firstLevel": 15,
+    "reviewLevels": [],
+    "answer": "麦哲伦",
+    "explanation": "麦哲伦完成了穿越大西洋、太平洋、印度洋，再返回欧洲的环球航行，证实了地圆学说",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 115
+    },
+    "issue": "原文把麦哲伦与完成航行的船队混为一谈；题目只考其与环球航行的关联，不说他本人完成全程。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K116",
+    "number": 116,
+    "original": "雅尔塔会议决定战后成立联合国。",
+    "chapter": "历史长廊",
+    "term": "雅尔塔会议",
+    "meaning": "决定战后成立联合国的会议",
+    "learningGoal": "识别雅尔塔会议与“决定战后成立联合国的会议”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "雅尔塔会议",
+      "决定战后成立联合国的会议"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "贞观之治",
+      "光武中兴"
+    ],
+    "difficulty": 1,
+    "firstLevel": 15,
+    "reviewLevels": [],
+    "answer": "雅尔塔会议",
+    "explanation": "雅尔塔会议决定战后成立联合国。",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 116
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K117",
+    "number": 117,
+    "original": "爱琴文明：希腊最早的文明",
+    "chapter": "历史长廊",
+    "term": "爱琴文明",
+    "meaning": "希腊早期文明",
+    "learningGoal": "识别爱琴文明与“希腊早期文明”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "爱琴文明",
+      "希腊早期文明"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "光武中兴",
+      "文景之治"
+    ],
+    "difficulty": 1,
+    "firstLevel": 15,
+    "reviewLevels": [],
+    "answer": "爱琴文明",
+    "explanation": "爱琴文明：希腊最早的文明",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 117
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K118",
+    "number": 118,
+    "original": "诗经六义：风、雅、颂、赋、比、兴",
+    "chapter": "诗文与名著",
+    "term": "诗经六义",
+    "meaning": "风、雅、颂、赋、比、兴的合称",
+    "learningGoal": "识别诗经六义与“风、雅、颂、赋、比、兴的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "风",
+      "雅",
+      "颂",
+      "赋",
+      "比",
+      "兴"
+    ],
+    "parts": [
+      "风",
+      "雅",
+      "颂",
+      "赋",
+      "比",
+      "兴"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "四书",
+      "五经"
+    ],
+    "difficulty": 3,
+    "firstLevel": 15,
+    "reviewLevels": [
+      29
+    ],
+    "answer": "诗经六义",
+    "explanation": "诗经六义：风、雅、颂、赋、比、兴",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 118
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K119",
+    "number": 119,
+    "original": "四书：《大学》《中庸》《论语》《孟子》",
+    "chapter": "诗文与名著",
+    "term": "四书",
+    "meaning": "《大学》《中庸》《论语》《孟子》的合称",
+    "learningGoal": "识别四书与“《大学》《中庸》《论语》《孟子》的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《大学》",
+      "《中庸》",
+      "《论语》",
+      "《孟子》"
+    ],
+    "parts": [
+      "《大学》",
+      "《中庸》",
+      "《论语》",
+      "《孟子》"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "诗经六义",
+      "五经"
+    ],
+    "difficulty": 1,
+    "firstLevel": 15,
+    "reviewLevels": [],
+    "answer": "四书",
+    "explanation": "四书：《大学》《中庸》《论语》《孟子》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 119
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K120",
+    "number": 120,
+    "original": "五经：《诗经》《尚书》《礼记》《周易》《春秋》",
+    "chapter": "诗文与名著",
+    "term": "五经",
+    "meaning": "《诗经》等五部儒家经典的合称",
+    "learningGoal": "识别五经与“《诗经》等五部儒家经典的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《诗经》",
+      "《尚书》",
+      "《礼记》",
+      "《周易》",
+      "《春秋》"
+    ],
+    "parts": [
+      "《诗经》",
+      "《尚书》",
+      "《礼记》",
+      "《周易》",
+      "《春秋》"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "诗经六义",
+      "四书"
+    ],
+    "difficulty": 3,
+    "firstLevel": 15,
+    "reviewLevels": [
+      26
+    ],
+    "answer": "五经",
+    "explanation": "五经：《诗经》《尚书》《礼记》《周易》《春秋》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 120
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K121",
+    "number": 121,
+    "original": "《春秋》最早编年体史书",
+    "chapter": "诗文与名著",
+    "term": "《春秋》",
+    "meaning": "早期编年体史书",
+    "learningGoal": "识别《春秋》与“早期编年体史书”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《春秋》",
+      "早期编年体史书"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《左传》",
+      "《资治通鉴》",
+      "《国语》",
+      "《史记》",
+      "《汉书》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 16,
+    "reviewLevels": [
+      17
+    ],
+    "answer": "《春秋》",
+    "explanation": "《春秋》最早编年体史书",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 121
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K122",
+    "number": 122,
+    "original": "《左传》第一部详细的编年体史书",
+    "chapter": "诗文与名著",
+    "term": "《左传》",
+    "meaning": "第一部详细的编年体史书",
+    "learningGoal": "识别《左传》与“第一部详细的编年体史书”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《左传》",
+      "第一部详细的编年体史书"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《春秋》",
+      "《资治通鉴》",
+      "《国语》",
+      "《史记》",
+      "《汉书》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 16,
+    "reviewLevels": [],
+    "answer": "《左传》",
+    "explanation": "《左传》第一部详细的编年体史书",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 122
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K123",
+    "number": 123,
+    "original": "《资治通鉴》最早编年体通史",
+    "chapter": "诗文与名著",
+    "term": "《资治通鉴》",
+    "meaning": "编年体通史",
+    "learningGoal": "识别《资治通鉴》与“编年体通史”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《资治通鉴》",
+      "编年体通史"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《春秋》",
+      "《左传》",
+      "《国语》",
+      "《史记》",
+      "《汉书》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 16,
+    "reviewLevels": [],
+    "answer": "《资治通鉴》",
+    "explanation": "《资治通鉴》最早编年体通史",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 123
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K124",
+    "number": 124,
+    "original": "《国语》最早国别体史书",
+    "chapter": "诗文与名著",
+    "term": "《国语》",
+    "meaning": "早期国别体史书",
+    "learningGoal": "识别《国语》与“早期国别体史书”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《国语》",
+      "早期国别体史书"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《春秋》",
+      "《左传》",
+      "《资治通鉴》",
+      "《史记》",
+      "《汉书》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 16,
+    "reviewLevels": [],
+    "answer": "《国语》",
+    "explanation": "《国语》最早国别体史书",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 124
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K125",
+    "number": 125,
+    "original": "《史记》中国第一部纪传体通史",
+    "chapter": "诗文与名著",
+    "term": "《史记》",
+    "meaning": "中国第一部纪传体通史",
+    "learningGoal": "识别《史记》与“中国第一部纪传体通史”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《史记》",
+      "中国第一部纪传体通史"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《春秋》",
+      "《左传》",
+      "《资治通鉴》",
+      "《国语》",
+      "《汉书》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 16,
+    "reviewLevels": [
+      27
+    ],
+    "answer": "《史记》",
+    "explanation": "《史记》中国第一部纪传体通史",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 125
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K126",
+    "number": 126,
+    "original": "《汉书》第一部纪传体断代史",
+    "chapter": "诗文与名著",
+    "term": "《汉书》",
+    "meaning": "第一部纪传体断代史",
+    "learningGoal": "识别《汉书》与“第一部纪传体断代史”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《汉书》",
+      "第一部纪传体断代史"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《春秋》",
+      "《左传》",
+      "《资治通鉴》",
+      "《国语》",
+      "《史记》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 16,
+    "reviewLevels": [],
+    "answer": "《汉书》",
+    "explanation": "《汉书》第一部纪传体断代史",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 126
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K127",
+    "number": 127,
+    "original": "诗仙：李白，《将进酒》：天生我材必有用，千金散尽还复来",
+    "chapter": "诗文与名著",
+    "term": "李白",
+    "meaning": "被称为“诗仙”的诗人",
+    "learningGoal": "识别李白与“被称为“诗仙”的诗人”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "李白",
+      "被称为“诗仙”的诗人"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "杜甫",
+      "李贺",
+      "王维",
+      "贺知章",
+      "孟郊"
+    ],
+    "difficulty": 1,
+    "firstLevel": 16,
+    "reviewLevels": [],
+    "answer": "李白",
+    "explanation": "诗仙：李白，《将进酒》：天生我材必有用，千金散尽还复来",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 127
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K128",
+    "number": 128,
+    "original": "诗圣：杜甫，《茅屋为秋风所破歌》：安得广厦千万间，大庇天下寒士俱欢颜",
+    "chapter": "诗文与名著",
+    "term": "杜甫",
+    "meaning": "被称为“诗圣”的诗人",
+    "learningGoal": "识别杜甫与“被称为“诗圣”的诗人”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "杜甫",
+      "被称为“诗圣”的诗人"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "李白",
+      "李贺",
+      "王维",
+      "贺知章",
+      "孟郊"
+    ],
+    "difficulty": 1,
+    "firstLevel": 16,
+    "reviewLevels": [
+      18
+    ],
+    "answer": "杜甫",
+    "explanation": "诗圣：杜甫，《茅屋为秋风所破歌》：安得广厦千万间，大庇天下寒士俱欢颜",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 128
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K129",
+    "number": 129,
+    "original": "诗鬼：李贺，《雁门太守行》：黑云压城城欲摧，甲光向日金鳞开",
+    "chapter": "诗文与名著",
+    "term": "李贺",
+    "meaning": "被称为“诗鬼”的诗人",
+    "learningGoal": "识别李贺与“被称为“诗鬼”的诗人”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "李贺",
+      "被称为“诗鬼”的诗人"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "李白",
+      "杜甫",
+      "王维",
+      "贺知章",
+      "孟郊"
+    ],
+    "difficulty": 1,
+    "firstLevel": 17,
+    "reviewLevels": [],
+    "answer": "李贺",
+    "explanation": "诗鬼：李贺，《雁门太守行》：黑云压城城欲摧，甲光向日金鳞开",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 129
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K130",
+    "number": 130,
+    "original": "诗佛：王维，《九月九日忆山东兄弟》：独在异乡为异客，每逢佳节倍思亲",
+    "chapter": "诗文与名著",
+    "term": "王维",
+    "meaning": "被称为“诗佛”的诗人",
+    "learningGoal": "识别王维与“被称为“诗佛”的诗人”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "王维",
+      "被称为“诗佛”的诗人"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "李白",
+      "杜甫",
+      "李贺",
+      "贺知章",
+      "孟郊"
+    ],
+    "difficulty": 1,
+    "firstLevel": 17,
+    "reviewLevels": [
+      28
+    ],
+    "answer": "王维",
+    "explanation": "诗佛：王维，《九月九日忆山东兄弟》：独在异乡为异客，每逢佳节倍思亲",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 130
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K131",
+    "number": 131,
+    "original": "诗狂：贺知章，《回乡偶书》：少小离家老大回，乡音无改鬓毛衰。儿童相见不相识，笑问客从何处来",
+    "chapter": "诗文与名著",
+    "term": "贺知章",
+    "meaning": "被称为“诗狂”的诗人",
+    "learningGoal": "识别贺知章与“被称为“诗狂”的诗人”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "贺知章",
+      "被称为“诗狂”的诗人"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "李白",
+      "杜甫",
+      "李贺",
+      "王维",
+      "孟郊"
+    ],
+    "difficulty": 1,
+    "firstLevel": 17,
+    "reviewLevels": [],
+    "answer": "贺知章",
+    "explanation": "诗狂：贺知章，《回乡偶书》：少小离家老大回，乡音无改鬓毛衰。儿童相见不相识，笑问客从何处来",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 131
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K132",
+    "number": 132,
+    "original": "诗囚：孟郊，《游子吟》：慈母手中线，游子身上衣",
+    "chapter": "诗文与名著",
+    "term": "孟郊",
+    "meaning": "被称为“诗囚”的诗人",
+    "learningGoal": "识别孟郊与“被称为“诗囚”的诗人”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "孟郊",
+      "被称为“诗囚”的诗人"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "李白",
+      "杜甫",
+      "李贺",
+      "王维",
+      "贺知章"
+    ],
+    "difficulty": 1,
+    "firstLevel": 17,
+    "reviewLevels": [],
+    "answer": "孟郊",
+    "explanation": "诗囚：孟郊，《游子吟》：慈母手中线，游子身上衣",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 5,
+      "item": 132
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K133",
+    "number": 133,
+    "original": "诗杰：王勃，《滕王阁序》：落霞与孤鹜齐飞，秋水共长天一色",
+    "chapter": "诗文与名著",
+    "term": "王勃",
+    "meaning": "《滕王阁序》的作者",
+    "learningGoal": "识别王勃与“《滕王阁序》的作者”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "王勃",
+      "《滕王阁序》的作者"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "李白",
+      "杜甫",
+      "李贺",
+      "王维",
+      "贺知章"
+    ],
+    "difficulty": 1,
+    "firstLevel": 17,
+    "reviewLevels": [],
+    "answer": "王勃",
+    "explanation": "诗杰：王勃，《滕王阁序》：落霞与孤鹜齐飞，秋水共长天一色",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 133
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K134",
+    "number": 134,
+    "original": "诗骨：陈子昂，《登幽州台歌》：前不见古人，后不见来者，念天地之悠悠，独怆然而涕下",
+    "chapter": "诗文与名著",
+    "term": "陈子昂",
+    "meaning": "被称为“诗骨”的诗人",
+    "learningGoal": "识别陈子昂与“被称为“诗骨”的诗人”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "陈子昂",
+      "被称为“诗骨”的诗人"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "李白",
+      "杜甫",
+      "李贺",
+      "王维",
+      "贺知章"
+    ],
+    "difficulty": 1,
+    "firstLevel": 17,
+    "reviewLevels": [],
+    "answer": "陈子昂",
+    "explanation": "诗骨：陈子昂，《登幽州台歌》：前不见古人，后不见来者，念天地之悠悠，独怆然而涕下",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 134
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K135",
+    "number": 135,
+    "original": "诗星：孟浩然，《春晓》：夜来风雨声，花落知多少",
+    "chapter": "诗文与名著",
+    "term": "孟浩然",
+    "meaning": "《春晓》的作者",
+    "learningGoal": "识别孟浩然与“《春晓》的作者”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "孟浩然",
+      "《春晓》的作者"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "李白",
+      "杜甫",
+      "李贺",
+      "王维",
+      "贺知章"
+    ],
+    "difficulty": 1,
+    "firstLevel": 17,
+    "reviewLevels": [
+      19,
+      29
+    ],
+    "answer": "孟浩然",
+    "explanation": "诗星：孟浩然，《春晓》：夜来风雨声，花落知多少",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 135
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K136",
+    "number": 136,
+    "original": "诗魔：白居易，《长恨歌》：在天愿作比翼鸟，在地愿为连理枝",
+    "chapter": "诗文与名著",
+    "term": "白居易",
+    "meaning": "被称为“诗魔”的诗人",
+    "learningGoal": "识别白居易与“被称为“诗魔”的诗人”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "白居易",
+      "被称为“诗魔”的诗人"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "李白",
+      "杜甫",
+      "李贺",
+      "王维",
+      "贺知章"
+    ],
+    "difficulty": 1,
+    "firstLevel": 17,
+    "reviewLevels": [],
+    "answer": "白居易",
+    "explanation": "诗魔：白居易，《长恨歌》：在天愿作比翼鸟，在地愿为连理枝",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 136
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K137",
+    "number": 137,
+    "original": "诗豪：刘禹锡，《酬乐天扬州初逢席上见赠》：沉舟侧畔千帆过，病树前头万木春",
+    "chapter": "诗文与名著",
+    "term": "刘禹锡",
+    "meaning": "被称为“诗豪”的诗人",
+    "learningGoal": "识别刘禹锡与“被称为“诗豪”的诗人”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "刘禹锡",
+      "被称为“诗豪”的诗人"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "李白",
+      "杜甫",
+      "李贺",
+      "王维",
+      "贺知章"
+    ],
+    "difficulty": 1,
+    "firstLevel": 18,
+    "reviewLevels": [
+      26
+    ],
+    "answer": "刘禹锡",
+    "explanation": "诗豪：刘禹锡，《酬乐天扬州初逢席上见赠》：沉舟侧畔千帆过，病树前头万木春",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 137
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K138",
+    "number": 138,
+    "original": "诗奴：贾岛，《寻隐者不遇》：只在此山中，云深不知处",
+    "chapter": "诗文与名著",
+    "term": "贾岛",
+    "meaning": "被称为“诗奴”的诗人",
+    "learningGoal": "识别贾岛与“被称为“诗奴”的诗人”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "贾岛",
+      "被称为“诗奴”的诗人"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "李白",
+      "杜甫",
+      "李贺",
+      "王维",
+      "贺知章"
+    ],
+    "difficulty": 1,
+    "firstLevel": 18,
+    "reviewLevels": [],
+    "answer": "贾岛",
+    "explanation": "诗奴：贾岛，《寻隐者不遇》：只在此山中，云深不知处",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 138
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K139",
+    "number": 139,
+    "original": "《永乐大典》世界有史以来最大的百科全书",
+    "chapter": "诗文与名著",
+    "term": "《永乐大典》",
+    "meaning": "原资料第139条的百科全书",
+    "learningGoal": "识别《永乐大典》与“原资料第139条的百科全书”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《永乐大典》",
+      "原资料第139条的百科全书"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《古今图书集成》",
+      "《四库全书》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 18,
+    "reviewLevels": [],
+    "answer": "《永乐大典》",
+    "explanation": "《永乐大典》世界有史以来最大的百科全书",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 139
+    },
+    "issue": "与第21条重复，且“有史以来最大”缺少范围；保留独立编号，标明重复来源。",
+    "duplicateOf": "K021"
+  },
+  {
+    "id": "K140",
+    "number": 140,
+    "original": "《古今图书集成》我国现存规模最大、资料最丰富的类书",
+    "chapter": "诗文与名著",
+    "term": "《古今图书集成》",
+    "meaning": "原资料第140条的大型类书",
+    "learningGoal": "识别《古今图书集成》与“原资料第140条的大型类书”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《古今图书集成》",
+      "原资料第140条的大型类书"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《永乐大典》",
+      "《四库全书》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 18,
+    "reviewLevels": [],
+    "answer": "《古今图书集成》",
+    "explanation": "《古今图书集成》我国现存规模最大、资料最丰富的类书",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 140
+    },
+    "issue": null,
+    "duplicateOf": "K022"
+  },
+  {
+    "id": "K141",
+    "number": 141,
+    "original": "《四库全书》我国最大的一部丛书",
+    "chapter": "诗文与名著",
+    "term": "《四库全书》",
+    "meaning": "原资料第141条的大型丛书",
+    "learningGoal": "识别《四库全书》与“原资料第141条的大型丛书”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《四库全书》",
+      "原资料第141条的大型丛书"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《永乐大典》",
+      "《古今图书集成》"
+    ],
+    "difficulty": 1,
+    "firstLevel": 18,
+    "reviewLevels": [],
+    "answer": "《四库全书》",
+    "explanation": "《四库全书》我国最大的一部丛书",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 141
+    },
+    "issue": null,
+    "duplicateOf": "K020"
+  },
+  {
+    "id": "K142",
+    "number": 142,
+    "original": "老舍获得“人民艺术家”称号，《龙须沟》《茶馆》《骆驼祥子》《四世同堂》",
+    "chapter": "诗文与名著",
+    "term": "老舍",
+    "meaning": "获“人民艺术家”称号的作家",
+    "learningGoal": "识别老舍与“获“人民艺术家”称号的作家”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《龙须沟》",
+      "《茶馆》",
+      "《骆驼祥子》",
+      "《四世同堂》"
+    ],
+    "parts": [
+      "《龙须沟》",
+      "《茶馆》",
+      "《骆驼祥子》",
+      "《四世同堂》"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "巴金",
+      "茅盾",
+      "但丁",
+      "彼特拉克",
+      "薄伽丘"
+    ],
+    "difficulty": 1,
+    "firstLevel": 18,
+    "reviewLevels": [
+      20,
+      27
+    ],
+    "answer": "老舍",
+    "explanation": "老舍获得“人民艺术家”称号，《龙须沟》《茶馆》《骆驼祥子》《四世同堂》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 142
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K143",
+    "number": 143,
+    "original": "巴金，激流三部曲《家》《春》《秋》，爱情三部曲《雾》《雨》《电》",
+    "chapter": "诗文与名著",
+    "term": "巴金",
+    "meaning": "“激流三部曲”与“爱情三部曲”的作者",
+    "learningGoal": "识别巴金与““激流三部曲”与“爱情三部曲”的作者”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "巴金",
+      "“激流三部曲”与“爱情三部曲”的作者"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "老舍",
+      "茅盾",
+      "但丁",
+      "彼特拉克",
+      "薄伽丘"
+    ],
+    "difficulty": 1,
+    "firstLevel": 18,
+    "reviewLevels": [],
+    "answer": "巴金",
+    "explanation": "巴金，激流三部曲《家》《春》《秋》，爱情三部曲《雾》《雨》《电》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 143
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K144",
+    "number": 144,
+    "original": "茅盾，《林家铺子》《子夜》《蚀》三部曲：《幻灭》《动摇》《追求》",
+    "chapter": "诗文与名著",
+    "term": "茅盾",
+    "meaning": "《子夜》《林家铺子》的作者",
+    "learningGoal": "识别茅盾与“《子夜》《林家铺子》的作者”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "茅盾",
+      "《子夜》《林家铺子》的作者"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "老舍",
+      "巴金",
+      "但丁",
+      "彼特拉克",
+      "薄伽丘"
+    ],
+    "difficulty": 1,
+    "firstLevel": 18,
+    "reviewLevels": [],
+    "answer": "茅盾",
+    "explanation": "茅盾，《林家铺子》《子夜》《蚀》三部曲：《幻灭》《动摇》《追求》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 144
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K145",
+    "number": 145,
+    "original": "但丁代表作《神曲》",
+    "chapter": "诗文与名著",
+    "term": "但丁",
+    "meaning": "《神曲》的作者",
+    "learningGoal": "识别但丁与“《神曲》的作者”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "但丁",
+      "《神曲》的作者"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "老舍",
+      "巴金",
+      "茅盾",
+      "彼特拉克",
+      "薄伽丘"
+    ],
+    "difficulty": 1,
+    "firstLevel": 19,
+    "reviewLevels": [],
+    "answer": "但丁",
+    "explanation": "但丁代表作《神曲》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 145
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K146",
+    "number": 146,
+    "original": "彼特拉克被称为“人文主义之父”",
+    "chapter": "诗文与名著",
+    "term": "彼特拉克",
+    "meaning": "被称为“人文主义之父”的作家",
+    "learningGoal": "识别彼特拉克与“被称为“人文主义之父”的作家”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "彼特拉克",
+      "被称为“人文主义之父”的作家"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "老舍",
+      "巴金",
+      "茅盾",
+      "但丁",
+      "薄伽丘"
+    ],
+    "difficulty": 1,
+    "firstLevel": 19,
+    "reviewLevels": [],
+    "answer": "彼特拉克",
+    "explanation": "彼特拉克被称为“人文主义之父”",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 146
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K147",
+    "number": 147,
+    "original": "薄伽丘的代表作《十日谈》",
+    "chapter": "诗文与名著",
+    "term": "薄伽丘",
+    "meaning": "《十日谈》的作者",
+    "learningGoal": "识别薄伽丘与“《十日谈》的作者”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "薄伽丘",
+      "《十日谈》的作者"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "老舍",
+      "巴金",
+      "茅盾",
+      "但丁",
+      "彼特拉克"
+    ],
+    "difficulty": 1,
+    "firstLevel": 19,
+    "reviewLevels": [
+      28
+    ],
+    "answer": "薄伽丘",
+    "explanation": "薄伽丘的代表作《十日谈》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 147
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K148",
+    "number": 148,
+    "original": "莎士比亚四大悲剧：《哈姆雷特》（最高成就）《李尔王》《麦克白》《奥赛罗》",
+    "chapter": "诗文与名著",
+    "term": "莎士比亚四大悲剧",
+    "meaning": "《哈姆雷特》等四部悲剧的合称",
+    "learningGoal": "识别莎士比亚四大悲剧与“《哈姆雷特》等四部悲剧的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《哈姆雷特》",
+      "《李尔王》",
+      "《麦克白》",
+      "《奥赛罗》"
+    ],
+    "parts": [
+      "《哈姆雷特》",
+      "《李尔王》",
+      "《麦克白》",
+      "《奥赛罗》"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "莎士比亚四大喜剧",
+      "短篇小说三巨匠"
+    ],
+    "difficulty": 1,
+    "firstLevel": 19,
+    "reviewLevels": [],
+    "answer": "莎士比亚四大悲剧",
+    "explanation": "莎士比亚四大悲剧：《哈姆雷特》（最高成就）《李尔王》《麦克白》《奥赛罗》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 148
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K149",
+    "number": 149,
+    "original": "莎士比亚四大喜剧：《威尼斯商人》《仲夏夜之梦》《第十二夜》《皆大欢喜》",
+    "chapter": "诗文与名著",
+    "term": "莎士比亚四大喜剧",
+    "meaning": "《威尼斯商人》等四部喜剧的合称",
+    "learningGoal": "识别莎士比亚四大喜剧与“《威尼斯商人》等四部喜剧的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《威尼斯商人》",
+      "《仲夏夜之梦》",
+      "《第十二夜》",
+      "《皆大欢喜》"
+    ],
+    "parts": [
+      "《威尼斯商人》",
+      "《仲夏夜之梦》",
+      "《第十二夜》",
+      "《皆大欢喜》"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "莎士比亚四大悲剧",
+      "短篇小说三巨匠"
+    ],
+    "difficulty": 1,
+    "firstLevel": 19,
+    "reviewLevels": [
+      21
+    ],
+    "answer": "莎士比亚四大喜剧",
+    "explanation": "莎士比亚四大喜剧：《威尼斯商人》《仲夏夜之梦》《第十二夜》《皆大欢喜》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 149
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K150",
+    "number": 150,
+    "original": "短篇小说三巨匠：莫泊桑、契诃夫、欧·亨利",
+    "chapter": "诗文与名著",
+    "term": "短篇小说三巨匠",
+    "meaning": "莫泊桑、契诃夫、欧·亨利的合称",
+    "learningGoal": "识别短篇小说三巨匠与“莫泊桑、契诃夫、欧·亨利的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "莫泊桑",
+      "契诃夫",
+      "欧·亨利"
+    ],
+    "parts": [
+      "莫泊桑",
+      "契诃夫",
+      "欧·亨利"
+    ],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "莎士比亚四大悲剧",
+      "莎士比亚四大喜剧"
+    ],
+    "difficulty": 1,
+    "firstLevel": 19,
+    "reviewLevels": [],
+    "answer": "短篇小说三巨匠",
+    "explanation": "短篇小说三巨匠：莫泊桑、契诃夫、欧·亨利",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 150
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K151",
+    "number": 151,
+    "original": "夏洛克——莎士比亚《威尼斯商人》中的吝啬鬼",
+    "chapter": "诗文与名著",
+    "term": "夏洛克",
+    "meaning": "《威尼斯商人》中的吝啬鬼",
+    "learningGoal": "识别夏洛克与“《威尼斯商人》中的吝啬鬼”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "夏洛克",
+      "《威尼斯商人》中的吝啬鬼"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "阿巴贡",
+      "葛朗台",
+      "泼留希金"
+    ],
+    "difficulty": 1,
+    "firstLevel": 19,
+    "reviewLevels": [],
+    "answer": "夏洛克",
+    "explanation": "夏洛克——莎士比亚《威尼斯商人》中的吝啬鬼",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 151
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K152",
+    "number": 152,
+    "original": "阿巴贡——莫里哀《吝啬鬼》中的吝啬鬼",
+    "chapter": "诗文与名著",
+    "term": "阿巴贡",
+    "meaning": "莫里哀《吝啬鬼》中的人物",
+    "learningGoal": "识别阿巴贡与“莫里哀《吝啬鬼》中的人物”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "阿巴贡",
+      "莫里哀《吝啬鬼》中的人物"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "夏洛克",
+      "葛朗台",
+      "泼留希金"
+    ],
+    "difficulty": 1,
+    "firstLevel": 19,
+    "reviewLevels": [
+      29
+    ],
+    "answer": "阿巴贡",
+    "explanation": "阿巴贡——莫里哀《吝啬鬼》中的吝啬鬼",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 152
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K153",
+    "number": 153,
+    "original": "葛朗台——巴尔扎克《守财奴》中的吝啬鬼",
+    "chapter": "诗文与名著",
+    "term": "葛朗台",
+    "meaning": "巴尔扎克《守财奴》中的人物",
+    "learningGoal": "识别葛朗台与“巴尔扎克《守财奴》中的人物”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "葛朗台",
+      "巴尔扎克《守财奴》中的人物"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "夏洛克",
+      "阿巴贡",
+      "泼留希金"
+    ],
+    "difficulty": 1,
+    "firstLevel": 20,
+    "reviewLevels": [],
+    "answer": "葛朗台",
+    "explanation": "葛朗台——巴尔扎克《守财奴》中的吝啬鬼",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 153
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K154",
+    "number": 154,
+    "original": "泼留希金——果戈里《死魂灵》中的吝啬鬼",
+    "chapter": "诗文与名著",
+    "term": "泼留希金",
+    "meaning": "《死魂灵》中的吝啬鬼",
+    "learningGoal": "识别泼留希金与“《死魂灵》中的吝啬鬼”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "泼留希金",
+      "《死魂灵》中的吝啬鬼"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "夏洛克",
+      "阿巴贡",
+      "葛朗台"
+    ],
+    "difficulty": 1,
+    "firstLevel": 20,
+    "reviewLevels": [
+      26
+    ],
+    "answer": "泼留希金",
+    "explanation": "泼留希金——果戈里《死魂灵》中的吝啬鬼",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 154
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K155",
+    "number": 155,
+    "original": "天干：甲、乙、丙、丁、戊、己、庚、辛、壬、癸",
+    "chapter": "科技与艺术",
+    "term": "天干",
+    "meaning": "甲、乙、丙、丁等十个符号的合称",
+    "learningGoal": "识别天干与“甲、乙、丙、丁等十个符号的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊",
+      "己",
+      "庚",
+      "辛",
+      "壬",
+      "癸"
+    ],
+    "parts": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊",
+      "己",
+      "庚",
+      "辛",
+      "壬",
+      "癸"
+    ],
+    "ordered": true,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "地支",
+      "蔡伦",
+      "毕昇",
+      "指南针",
+      "火药"
+    ],
+    "difficulty": 3,
+    "firstLevel": 20,
+    "reviewLevels": [],
+    "answer": "天干",
+    "explanation": "天干：甲、乙、丙、丁、戊、己、庚、辛、壬、癸",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 155
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K156",
+    "number": 156,
+    "original": "地支：子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥",
+    "chapter": "科技与艺术",
+    "term": "地支",
+    "meaning": "子、丑、寅、卯等十二个符号的合称",
+    "learningGoal": "识别地支与“子、丑、寅、卯等十二个符号的合称”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "子",
+      "丑",
+      "寅",
+      "卯",
+      "辰",
+      "巳",
+      "午",
+      "未",
+      "申",
+      "酉",
+      "戌",
+      "亥"
+    ],
+    "parts": [
+      "子",
+      "丑",
+      "寅",
+      "卯",
+      "辰",
+      "巳",
+      "午",
+      "未",
+      "申",
+      "酉",
+      "戌",
+      "亥"
+    ],
+    "ordered": true,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "天干",
+      "蔡伦",
+      "毕昇",
+      "指南针",
+      "火药"
+    ],
+    "difficulty": 3,
+    "firstLevel": 20,
+    "reviewLevels": [
+      22
+    ],
+    "answer": "地支",
+    "explanation": "地支：子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 156
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K157",
+    "number": 157,
+    "original": "造纸术：东汉蔡伦改进造纸术，纸被称为“蔡侯纸”",
+    "chapter": "科技与艺术",
+    "term": "蔡伦",
+    "meaning": "东汉改进造纸术的人物",
+    "learningGoal": "识别蔡伦与“东汉改进造纸术的人物”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "蔡伦",
+      "东汉改进造纸术的人物"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "毕昇",
+      "宋应星"
+    ],
+    "difficulty": 1,
+    "firstLevel": 20,
+    "reviewLevels": [
+      30
+    ],
+    "answer": "蔡伦",
+    "explanation": "造纸术：东汉蔡伦改进造纸术，纸被称为“蔡侯纸”",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 157
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K158",
+    "number": 158,
+    "original": "印刷术：隋唐雕版印刷，北宋毕昇发明活字印刷术。",
+    "chapter": "科技与艺术",
+    "term": "毕昇",
+    "meaning": "北宋发明活字印刷术的人物",
+    "learningGoal": "识别毕昇与“北宋发明活字印刷术的人物”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "毕昇",
+      "北宋发明活字印刷术的人物"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "蔡伦",
+      "沈括"
+    ],
+    "difficulty": 1,
+    "firstLevel": 20,
+    "reviewLevels": [],
+    "answer": "毕昇",
+    "explanation": "印刷术：隋唐雕版印刷，北宋毕昇发明活字印刷术。",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 158
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K159",
+    "number": 159,
+    "original": "指南针：战国时期发现“司南”，北宋时制成指南针应用于航海。",
+    "chapter": "科技与艺术",
+    "term": "指南针",
+    "meaning": "北宋时期应用于航海的指向工具",
+    "learningGoal": "识别指南针与“北宋时期应用于航海的指向工具”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "指南针",
+      "北宋时期应用于航海的指向工具"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "造纸术",
+      "印刷术"
+    ],
+    "difficulty": 1,
+    "firstLevel": 20,
+    "reviewLevels": [
+      27
+    ],
+    "answer": "指南针",
+    "explanation": "指南针：战国时期发现“司南”，北宋时制成指南针应用于航海。",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 159
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K160",
+    "number": 160,
+    "original": "火药：源于炼丹术，唐末火药开始用于军事。南宋时发明了管形火器“突火枪”",
+    "chapter": "科技与艺术",
+    "term": "火药",
+    "meaning": "源于炼丹术的四大发明之一",
+    "learningGoal": "识别火药与“源于炼丹术的四大发明之一”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "火药",
+      "源于炼丹术的四大发明之一"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "指南针",
+      "印刷术"
+    ],
+    "difficulty": 1,
+    "firstLevel": 20,
+    "reviewLevels": [],
+    "answer": "火药",
+    "explanation": "火药：源于炼丹术，唐末火药开始用于军事。南宋时发明了管形火器“突火枪”",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 160
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K161",
+    "number": 161,
+    "original": "《难经》战国时期扁鹊所著",
+    "chapter": "科技与艺术",
+    "term": "《难经》",
+    "meaning": "原资料中与扁鹊相联系的医学典籍",
+    "learningGoal": "识别《难经》与“原资料中与扁鹊相联系的医学典籍”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《难经》",
+      "原资料中与扁鹊相联系的医学典籍"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "张仲景",
+      "孙思邈",
+      "李时珍",
+      "陆羽",
+      "贾思勰"
+    ],
+    "difficulty": 1,
+    "firstLevel": 21,
+    "reviewLevels": [],
+    "answer": "《难经》",
+    "explanation": "《难经》战国时期扁鹊所著",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 6,
+      "item": 161
+    },
+    "issue": "作者归属需要区分“相传/托名”与确切著作权；练习仅核对原资料对应，不断言确切作者。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K162",
+    "number": 162,
+    "original": "《伤寒杂病论》东汉张仲景（医圣）所著",
+    "chapter": "科技与艺术",
+    "term": "张仲景",
+    "meaning": "东汉《伤寒杂病论》的作者",
+    "learningGoal": "识别张仲景与“东汉《伤寒杂病论》的作者”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "张仲景",
+      "东汉《伤寒杂病论》的作者"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《难经》",
+      "孙思邈",
+      "李时珍",
+      "陆羽",
+      "贾思勰"
+    ],
+    "difficulty": 1,
+    "firstLevel": 21,
+    "reviewLevels": [],
+    "answer": "张仲景",
+    "explanation": "《伤寒杂病论》东汉张仲景（医圣）所著",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 162
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K163",
+    "number": 163,
+    "original": "《千金要方》唐朝孙思邈（药王）所著",
+    "chapter": "科技与艺术",
+    "term": "孙思邈",
+    "meaning": "唐朝《千金要方》的作者",
+    "learningGoal": "识别孙思邈与“唐朝《千金要方》的作者”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "孙思邈",
+      "唐朝《千金要方》的作者"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《难经》",
+      "张仲景",
+      "李时珍",
+      "陆羽",
+      "贾思勰"
+    ],
+    "difficulty": 1,
+    "firstLevel": 21,
+    "reviewLevels": [
+      23
+    ],
+    "answer": "孙思邈",
+    "explanation": "《千金要方》唐朝孙思邈（药王）所著",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 163
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K164",
+    "number": 164,
+    "original": "《本草纲目》明朝李时珍所著",
+    "chapter": "科技与艺术",
+    "term": "李时珍",
+    "meaning": "明朝《本草纲目》的作者",
+    "learningGoal": "识别李时珍与“明朝《本草纲目》的作者”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "李时珍",
+      "明朝《本草纲目》的作者"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《难经》",
+      "张仲景",
+      "孙思邈",
+      "陆羽",
+      "贾思勰"
+    ],
+    "difficulty": 1,
+    "firstLevel": 21,
+    "reviewLevels": [
+      28
+    ],
+    "answer": "李时珍",
+    "explanation": "《本草纲目》明朝李时珍所著",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 164
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K165",
+    "number": 165,
+    "original": "《茶经》唐朝陆羽所著",
+    "chapter": "科技与艺术",
+    "term": "陆羽",
+    "meaning": "唐朝《茶经》的作者",
+    "learningGoal": "识别陆羽与“唐朝《茶经》的作者”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "陆羽",
+      "唐朝《茶经》的作者"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《难经》",
+      "张仲景",
+      "孙思邈",
+      "李时珍",
+      "贾思勰"
+    ],
+    "difficulty": 1,
+    "firstLevel": 21,
+    "reviewLevels": [],
+    "answer": "陆羽",
+    "explanation": "《茶经》唐朝陆羽所著",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 165
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K166",
+    "number": 166,
+    "original": "《齐民要术》北魏贾思勰所著",
+    "chapter": "科技与艺术",
+    "term": "贾思勰",
+    "meaning": "北魏《齐民要术》的作者",
+    "learningGoal": "识别贾思勰与“北魏《齐民要术》的作者”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "贾思勰",
+      "北魏《齐民要术》的作者"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《难经》",
+      "张仲景",
+      "孙思邈",
+      "李时珍",
+      "陆羽"
+    ],
+    "difficulty": 1,
+    "firstLevel": 21,
+    "reviewLevels": [],
+    "answer": "贾思勰",
+    "explanation": "《齐民要术》北魏贾思勰所著",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 166
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K167",
+    "number": 167,
+    "original": "《梦溪笔谈》北宋沈括所著",
+    "chapter": "科技与艺术",
+    "term": "沈括",
+    "meaning": "北宋《梦溪笔谈》的作者",
+    "learningGoal": "识别沈括与“北宋《梦溪笔谈》的作者”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "沈括",
+      "北宋《梦溪笔谈》的作者"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《难经》",
+      "张仲景",
+      "孙思邈",
+      "李时珍",
+      "陆羽"
+    ],
+    "difficulty": 1,
+    "firstLevel": 21,
+    "reviewLevels": [],
+    "answer": "沈括",
+    "explanation": "《梦溪笔谈》北宋沈括所著",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 167
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K168",
+    "number": 168,
+    "original": "《农政全书》明朝徐光启所著",
+    "chapter": "科技与艺术",
+    "term": "徐光启",
+    "meaning": "明朝《农政全书》的作者",
+    "learningGoal": "识别徐光启与“明朝《农政全书》的作者”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "徐光启",
+      "明朝《农政全书》的作者"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《难经》",
+      "张仲景",
+      "孙思邈",
+      "李时珍",
+      "陆羽"
+    ],
+    "difficulty": 1,
+    "firstLevel": 21,
+    "reviewLevels": [],
+    "answer": "徐光启",
+    "explanation": "《农政全书》明朝徐光启所著",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 168
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K169",
+    "number": 169,
+    "original": "《天工开物》明朝宋应星所著",
+    "chapter": "科技与艺术",
+    "term": "宋应星",
+    "meaning": "明朝《天工开物》的作者",
+    "learningGoal": "识别宋应星与“明朝《天工开物》的作者”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "宋应星",
+      "明朝《天工开物》的作者"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "《难经》",
+      "张仲景",
+      "孙思邈",
+      "李时珍",
+      "陆羽"
+    ],
+    "difficulty": 1,
+    "firstLevel": 22,
+    "reviewLevels": [
+      29
+    ],
+    "answer": "宋应星",
+    "explanation": "《天工开物》明朝宋应星所著",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 169
+    },
+    "issue": null,
+    "duplicateOf": "K018"
+  },
+  {
+    "id": "K170",
+    "number": 170,
+    "original": "东方红一号：中国第一颗人造地球卫星",
+    "chapter": "科技与艺术",
+    "term": "东方红一号",
+    "meaning": "中国第一颗人造地球卫星",
+    "learningGoal": "识别东方红一号与“中国第一颗人造地球卫星”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "东方红一号",
+      "中国第一颗人造地球卫星"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "神舟五号",
+      "神舟七号",
+      "嫦娥一号",
+      "天宫一号",
+      "神舟九号"
+    ],
+    "difficulty": 1,
+    "firstLevel": 22,
+    "reviewLevels": [
+      24
+    ],
+    "answer": "东方红一号",
+    "explanation": "东方红一号：中国第一颗人造地球卫星",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 170
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K171",
+    "number": 171,
+    "original": "神舟五号：首次载人航天飞行",
+    "chapter": "科技与艺术",
+    "term": "神舟五号",
+    "meaning": "中国首次载人航天飞行的飞船",
+    "learningGoal": "识别神舟五号与“中国首次载人航天飞行的飞船”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "神舟五号",
+      "中国首次载人航天飞行的飞船"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "东方红一号",
+      "神舟七号",
+      "嫦娥一号",
+      "天宫一号",
+      "神舟九号"
+    ],
+    "difficulty": 1,
+    "firstLevel": 22,
+    "reviewLevels": [],
+    "answer": "神舟五号",
+    "explanation": "神舟五号：首次载人航天飞行",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 171
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K172",
+    "number": 172,
+    "original": "神舟七号：首次出舱作业",
+    "chapter": "科技与艺术",
+    "term": "神舟七号",
+    "meaning": "实现中国航天员首次出舱作业的飞船",
+    "learningGoal": "识别神舟七号与“实现中国航天员首次出舱作业的飞船”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "神舟七号",
+      "实现中国航天员首次出舱作业的飞船"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "东方红一号",
+      "神舟五号",
+      "嫦娥一号",
+      "天宫一号",
+      "神舟九号"
+    ],
+    "difficulty": 1,
+    "firstLevel": 22,
+    "reviewLevels": [],
+    "answer": "神舟七号",
+    "explanation": "神舟七号：首次出舱作业",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 172
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K173",
+    "number": 173,
+    "original": "嫦娥一号：中国第一颗自主研制月球探测卫星",
+    "chapter": "科技与艺术",
+    "term": "嫦娥一号",
+    "meaning": "中国第一颗自主研制月球探测卫星",
+    "learningGoal": "识别嫦娥一号与“中国第一颗自主研制月球探测卫星”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "嫦娥一号",
+      "中国第一颗自主研制月球探测卫星"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "东方红一号",
+      "神舟五号",
+      "神舟七号",
+      "天宫一号",
+      "神舟九号"
+    ],
+    "difficulty": 1,
+    "firstLevel": 22,
+    "reviewLevels": [],
+    "answer": "嫦娥一号",
+    "explanation": "嫦娥一号：中国第一颗自主研制月球探测卫星",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 173
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K174",
+    "number": 174,
+    "original": "天宫一号：中国第一个目标飞行器和空间实验室",
+    "chapter": "科技与艺术",
+    "term": "天宫一号",
+    "meaning": "中国第一个目标飞行器和空间实验室",
+    "learningGoal": "识别天宫一号与“中国第一个目标飞行器和空间实验室”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "天宫一号",
+      "中国第一个目标飞行器和空间实验室"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "东方红一号",
+      "神舟五号",
+      "神舟七号",
+      "嫦娥一号",
+      "神舟九号"
+    ],
+    "difficulty": 1,
+    "firstLevel": 22,
+    "reviewLevels": [
+      30
+    ],
+    "answer": "天宫一号",
+    "explanation": "天宫一号：中国第一个目标飞行器和空间实验室",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 174
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K175",
+    "number": 175,
+    "original": "神舟九号：首次载人交会对接",
+    "chapter": "科技与艺术",
+    "term": "神舟九号",
+    "meaning": "实现中国首次载人交会对接的飞船",
+    "learningGoal": "识别神舟九号与“实现中国首次载人交会对接的飞船”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "神舟九号",
+      "实现中国首次载人交会对接的飞船"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "东方红一号",
+      "神舟五号",
+      "神舟七号",
+      "嫦娥一号",
+      "天宫一号"
+    ],
+    "difficulty": 1,
+    "firstLevel": 22,
+    "reviewLevels": [],
+    "answer": "神舟九号",
+    "explanation": "神舟九号：首次载人交会对接",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 175
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K176",
+    "number": 176,
+    "original": "莱特兄弟发明飞机",
+    "chapter": "科技与艺术",
+    "term": "莱特兄弟",
+    "meaning": "原资料中与飞机发明相联系的人物",
+    "learningGoal": "识别莱特兄弟与“原资料中与飞机发明相联系的人物”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "莱特兄弟",
+      "原资料中与飞机发明相联系的人物"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "贝尔",
+      "蔡伦"
+    ],
+    "difficulty": 1,
+    "firstLevel": 22,
+    "reviewLevels": [
+      27
+    ],
+    "answer": "莱特兄弟",
+    "explanation": "莱特兄弟发明飞机",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 176
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K177",
+    "number": 177,
+    "original": "贝尔发明电话",
+    "chapter": "科技与艺术",
+    "term": "贝尔",
+    "meaning": "原资料中与电话发明相联系的人物",
+    "learningGoal": "识别贝尔与“原资料中与电话发明相联系的人物”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "贝尔",
+      "原资料中与电话发明相联系的人物"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "莱特兄弟",
+      "毕昇"
+    ],
+    "difficulty": 1,
+    "firstLevel": 23,
+    "reviewLevels": [
+      25
+    ],
+    "answer": "贝尔",
+    "explanation": "贝尔发明电话",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 177
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K178",
+    "number": 178,
+    "original": "贝多芬被称为“乐圣”双耳失聪仍坚持创作，第三交响曲《英雄交响曲》，第五交响曲《命运交响曲》，第六交响曲《田园交响曲》，第九交响曲《合唱交响曲》也就是《欢乐颂》，《致爱丽丝》",
+    "chapter": "科技与艺术",
+    "term": "贝多芬",
+    "meaning": "被称为“乐圣”的作曲家",
+    "learningGoal": "识别贝多芬与“被称为“乐圣”的作曲家”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "贝多芬",
+      "被称为“乐圣”的作曲家"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "海顿",
+      "莫扎特"
+    ],
+    "difficulty": 2,
+    "firstLevel": 23,
+    "reviewLevels": [],
+    "answer": "贝多芬",
+    "explanation": "贝多芬被称为“乐圣”双耳失聪仍坚持创作，第三交响曲《英雄交响曲》，第五交响曲《命运交响曲》，第六交响曲《田园交响曲》，第九交响曲《合唱交响曲》也就是《欢乐颂》，《致爱丽丝》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 178
+    },
+    "issue": "第九交响曲与《欢乐颂》不能直接等同为整部作品；练习只考“乐圣”称号。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K179",
+    "number": 179,
+    "original": "海顿被称为“交响乐之父”，现德国国歌作者，《惊愕交响曲》《小夜曲》《告别交响曲》",
+    "chapter": "科技与艺术",
+    "term": "海顿",
+    "meaning": "被称为“交响乐之父”的作曲家",
+    "learningGoal": "识别海顿与“被称为“交响乐之父”的作曲家”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "海顿",
+      "被称为“交响乐之父”的作曲家"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "贝多芬",
+      "巴赫"
+    ],
+    "difficulty": 1,
+    "firstLevel": 23,
+    "reviewLevels": [],
+    "answer": "海顿",
+    "explanation": "海顿被称为“交响乐之父”，现德国国歌作者，《惊愕交响曲》《小夜曲》《告别交响曲》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 179
+    },
+    "issue": "“德国国歌作者”需要区分作曲与作词；练习只考“交响乐之父”称号。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K180",
+    "number": 180,
+    "original": "巴赫被称为“西方近代音乐之父”，成名作《创意曲》",
+    "chapter": "科技与艺术",
+    "term": "巴赫",
+    "meaning": "被称为“西方近代音乐之父”的作曲家",
+    "learningGoal": "识别巴赫与“被称为“西方近代音乐之父”的作曲家”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "巴赫",
+      "被称为“西方近代音乐之父”的作曲家"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "海顿",
+      "肖邦"
+    ],
+    "difficulty": 1,
+    "firstLevel": 23,
+    "reviewLevels": [],
+    "answer": "巴赫",
+    "explanation": "巴赫被称为“西方近代音乐之父”，成名作《创意曲》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 180
+    },
+    "issue": "“成名作《创意曲》”缺少清晰依据；练习只考音乐家称号。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K181",
+    "number": 181,
+    "original": "莫扎特被称为“音乐神童”，《奏鸣曲》",
+    "chapter": "科技与艺术",
+    "term": "莫扎特",
+    "meaning": "被称为“音乐神童”的作曲家",
+    "learningGoal": "识别莫扎特与“被称为“音乐神童”的作曲家”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "莫扎特",
+      "被称为“音乐神童”的作曲家"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "贝多芬",
+      "海顿"
+    ],
+    "difficulty": 1,
+    "firstLevel": 23,
+    "reviewLevels": [
+      28
+    ],
+    "answer": "莫扎特",
+    "explanation": "莫扎特被称为“音乐神童”，《奏鸣曲》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 181
+    },
+    "issue": "《奏鸣曲》不是足以唯一定位的作品名；练习只考“音乐神童”称号。",
+    "duplicateOf": null
+  },
+  {
+    "id": "K182",
+    "number": 182,
+    "original": "肖邦被称为“钢琴诗人”，《一分钟圆舞曲》《革命》《夜曲》",
+    "chapter": "科技与艺术",
+    "term": "肖邦",
+    "meaning": "被称为“钢琴诗人”的作曲家",
+    "learningGoal": "识别肖邦与“被称为“钢琴诗人”的作曲家”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "肖邦",
+      "被称为“钢琴诗人”的作曲家"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "莫扎特",
+      "巴赫"
+    ],
+    "difficulty": 1,
+    "firstLevel": 23,
+    "reviewLevels": [],
+    "answer": "肖邦",
+    "explanation": "肖邦被称为“钢琴诗人”，《一分钟圆舞曲》《革命》《夜曲》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 182
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K183",
+    "number": 183,
+    "original": "柴可夫斯基代表作《天鹅湖》《睡美人》《胡桃夹子》《罗密欧与朱丽叶》",
+    "chapter": "科技与艺术",
+    "term": "柴可夫斯基",
+    "meaning": "《天鹅湖》《胡桃夹子》的作曲家",
+    "learningGoal": "识别柴可夫斯基与“《天鹅湖》《胡桃夹子》的作曲家”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "柴可夫斯基",
+      "《天鹅湖》《胡桃夹子》的作曲家"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "贝多芬",
+      "海顿"
+    ],
+    "difficulty": 1,
+    "firstLevel": 23,
+    "reviewLevels": [],
+    "answer": "柴可夫斯基",
+    "explanation": "柴可夫斯基代表作《天鹅湖》《睡美人》《胡桃夹子》《罗密欧与朱丽叶》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 183
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K184",
+    "number": 184,
+    "original": "唐明皇杨贵妃故事——诗歌：白居易《长恨歌》；戏剧：白朴《唐明皇秋夜梧桐雨》；戏曲：洪昇《长生殿》；京剧：梅兰芳《贵妃醉酒》",
+    "chapter": "科技与艺术",
+    "term": "《长恨歌》",
+    "meaning": "白居易描写唐明皇与杨贵妃故事的诗歌",
+    "learningGoal": "识别《长恨歌》与“白居易描写唐明皇与杨贵妃故事的诗歌”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "《长恨歌》",
+      "白居易描写唐明皇与杨贵妃故事的诗歌"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "甲骨文",
+      "小篆",
+      "王羲之",
+      "颜真卿、柳公权",
+      "赵佶"
+    ],
+    "difficulty": 2,
+    "firstLevel": 23,
+    "reviewLevels": [],
+    "answer": "《长恨歌》",
+    "explanation": "唐明皇杨贵妃故事——诗歌：白居易《长恨歌》；戏剧：白朴《唐明皇秋夜梧桐雨》；戏曲：洪昇《长生殿》；京剧：梅兰芳《贵妃醉酒》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 184
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K185",
+    "number": 185,
+    "original": "商朝：甲骨文已经成为比较成熟的文字",
+    "chapter": "科技与艺术",
+    "term": "甲骨文",
+    "meaning": "商朝已比较成熟的文字",
+    "learningGoal": "识别甲骨文与“商朝已比较成熟的文字”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "甲骨文",
+      "商朝已比较成熟的文字"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "小篆",
+      "隶书"
+    ],
+    "difficulty": 1,
+    "firstLevel": 24,
+    "reviewLevels": [],
+    "answer": "甲骨文",
+    "explanation": "商朝：甲骨文已经成为比较成熟的文字",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 185
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K186",
+    "number": 186,
+    "original": "秦朝：标准字体是小篆，民间流行更简化的隶书",
+    "chapter": "科技与艺术",
+    "term": "小篆",
+    "meaning": "秦朝的标准字体",
+    "learningGoal": "识别小篆与“秦朝的标准字体”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "小篆",
+      "秦朝的标准字体"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "甲骨文",
+      "隶书"
+    ],
+    "difficulty": 1,
+    "firstLevel": 24,
+    "reviewLevels": [
+      29
+    ],
+    "answer": "小篆",
+    "explanation": "秦朝：标准字体是小篆，民间流行更简化的隶书",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 186
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K187",
+    "number": 187,
+    "original": "东晋：“书圣”王羲之，代表作《兰亭序》",
+    "chapter": "科技与艺术",
+    "term": "王羲之",
+    "meaning": "被称为“书圣”的东晋书法家",
+    "learningGoal": "识别王羲之与“被称为“书圣”的东晋书法家”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "王羲之",
+      "被称为“书圣”的东晋书法家"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "颜真卿",
+      "赵孟頫"
+    ],
+    "difficulty": 1,
+    "firstLevel": 24,
+    "reviewLevels": [],
+    "answer": "王羲之",
+    "explanation": "东晋：“书圣”王羲之，代表作《兰亭序》",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 187
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K188",
+    "number": 188,
+    "original": "唐朝：颜筋柳骨—颜真卿，柳公权",
+    "chapter": "科技与艺术",
+    "term": "颜真卿、柳公权",
+    "meaning": "“颜筋柳骨”所指的两位书法家",
+    "learningGoal": "识别颜真卿、柳公权与““颜筋柳骨”所指的两位书法家”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "颜真卿、柳公权",
+      "“颜筋柳骨”所指的两位书法家"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "王羲之、赵佶",
+      "欧阳询、赵孟頫"
+    ],
+    "difficulty": 1,
+    "firstLevel": 24,
+    "reviewLevels": [],
+    "answer": "颜真卿、柳公权",
+    "explanation": "唐朝：颜筋柳骨—颜真卿，柳公权",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 7,
+      "item": 188
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K189",
+    "number": 189,
+    "original": "宋朝：宋徽宗赵佶以“瘦金体”著称",
+    "chapter": "科技与艺术",
+    "term": "赵佶",
+    "meaning": "以“瘦金体”著称的宋徽宗",
+    "learningGoal": "识别赵佶与“以“瘦金体”著称的宋徽宗”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "赵佶",
+      "以“瘦金体”著称的宋徽宗"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "王羲之",
+      "柳公权"
+    ],
+    "difficulty": 1,
+    "firstLevel": 24,
+    "reviewLevels": [],
+    "answer": "赵佶",
+    "explanation": "宋朝：宋徽宗赵佶以“瘦金体”著称",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 8,
+      "item": 189
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K190",
+    "number": 190,
+    "original": "元朝：赵孟頫与唐朝欧阳询、颜真卿、柳公权并称为“楷书四大家”。（柳颜赵欧）",
+    "chapter": "科技与艺术",
+    "term": "赵孟頫",
+    "meaning": "“楷书四大家”中的元朝书法家",
+    "learningGoal": "识别赵孟頫与““楷书四大家”中的元朝书法家”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "赵孟頫",
+      "“楷书四大家”中的元朝书法家"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "欧阳询",
+      "柳公权"
+    ],
+    "difficulty": 1,
+    "firstLevel": 24,
+    "reviewLevels": [],
+    "answer": "赵孟頫",
+    "explanation": "元朝：赵孟頫与唐朝欧阳询、颜真卿、柳公权并称为“楷书四大家”。（柳颜赵欧）",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 8,
+      "item": 190
+    },
+    "issue": null,
+    "duplicateOf": "K036"
+  },
+  {
+    "id": "K191",
+    "number": 191,
+    "original": "距离太阳近到远：水、金、地、火、木、土、天王、海王",
+    "chapter": "星空与导航",
+    "term": "八大行星距离顺序",
+    "meaning": "水星到海王星的由近及远顺序",
+    "learningGoal": "识别八大行星距离顺序与“水星到海王星的由近及远顺序”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "水星",
+      "金星",
+      "地球",
+      "火星",
+      "木星",
+      "土星",
+      "天王星",
+      "海王星"
+    ],
+    "parts": [
+      "水星",
+      "金星",
+      "地球",
+      "火星",
+      "木星",
+      "土星",
+      "天王星",
+      "海王星"
+    ],
+    "ordered": true,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "八大行星体积顺序",
+      "木星",
+      "水星",
+      "火星",
+      "土星"
+    ],
+    "difficulty": 3,
+    "firstLevel": 24,
+    "reviewLevels": [
+      30
+    ],
+    "answer": "八大行星距离顺序",
+    "explanation": "距离太阳近到远：水、金、地、火、木、土、天王、海王",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 8,
+      "item": 191
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K192",
+    "number": 192,
+    "original": "体积：木星＞土星＞天王星＞海王星＞地球＞金星＞火星＞水星",
+    "chapter": "星空与导航",
+    "term": "八大行星体积顺序",
+    "meaning": "木星到水星的由大到小顺序",
+    "learningGoal": "识别八大行星体积顺序与“木星到水星的由大到小顺序”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "木星",
+      "土星",
+      "天王星",
+      "海王星",
+      "地球",
+      "金星",
+      "火星",
+      "水星"
+    ],
+    "parts": [
+      "木星",
+      "土星",
+      "天王星",
+      "海王星",
+      "地球",
+      "金星",
+      "火星",
+      "水星"
+    ],
+    "ordered": true,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "keywords",
+      "scene"
+    ],
+    "confusion": [
+      "八大行星距离顺序",
+      "木星",
+      "水星",
+      "火星",
+      "土星"
+    ],
+    "difficulty": 3,
+    "firstLevel": 24,
+    "reviewLevels": [],
+    "answer": "八大行星体积顺序",
+    "explanation": "体积：木星＞土星＞天王星＞海王星＞地球＞金星＞火星＞水星",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 8,
+      "item": 192
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K193",
+    "number": 193,
+    "original": "木星的古称是岁星",
+    "chapter": "星空与导航",
+    "term": "木星",
+    "meaning": "古称“岁星”的行星",
+    "learningGoal": "识别木星与“古称“岁星”的行星”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "木星",
+      "古称“岁星”的行星"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "水星",
+      "火星",
+      "土星"
+    ],
+    "difficulty": 1,
+    "firstLevel": 25,
+    "reviewLevels": [
+      27
+    ],
+    "answer": "木星",
+    "explanation": "木星的古称是岁星",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 8,
+      "item": 193
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K194",
+    "number": 194,
+    "original": "水星的古称是辰星",
+    "chapter": "星空与导航",
+    "term": "水星",
+    "meaning": "古称“辰星”的行星",
+    "learningGoal": "识别水星与“古称“辰星”的行星”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "水星",
+      "古称“辰星”的行星"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "木星",
+      "火星",
+      "土星"
+    ],
+    "difficulty": 1,
+    "firstLevel": 25,
+    "reviewLevels": [],
+    "answer": "水星",
+    "explanation": "水星的古称是辰星",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 8,
+      "item": 194
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K195",
+    "number": 195,
+    "original": "火星的古称是荧惑星",
+    "chapter": "星空与导航",
+    "term": "火星",
+    "meaning": "古称“荧惑星”的行星",
+    "learningGoal": "识别火星与“古称“荧惑星”的行星”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "火星",
+      "古称“荧惑星”的行星"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "木星",
+      "水星",
+      "土星"
+    ],
+    "difficulty": 1,
+    "firstLevel": 25,
+    "reviewLevels": [],
+    "answer": "火星",
+    "explanation": "火星的古称是荧惑星",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 8,
+      "item": 195
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K196",
+    "number": 196,
+    "original": "土星的古称是镇星或填星",
+    "chapter": "星空与导航",
+    "term": "土星",
+    "meaning": "古称“镇星”或“填星”的行星",
+    "learningGoal": "识别土星与“古称“镇星”或“填星”的行星”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "土星",
+      "古称“镇星”或“填星”的行星"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "木星",
+      "水星",
+      "火星"
+    ],
+    "difficulty": 1,
+    "firstLevel": 25,
+    "reviewLevels": [],
+    "answer": "土星",
+    "explanation": "土星的古称是镇星或填星",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 8,
+      "item": 196
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K197",
+    "number": 197,
+    "original": "美国卫星定位系统：GPS",
+    "chapter": "星空与导航",
+    "term": "GPS",
+    "meaning": "美国的卫星定位系统",
+    "learningGoal": "识别GPS与“美国的卫星定位系统”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "GPS",
+      "美国的卫星定位系统"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "格罗纳斯",
+      "北斗",
+      "伽利略"
+    ],
+    "difficulty": 1,
+    "firstLevel": 25,
+    "reviewLevels": [],
+    "answer": "GPS",
+    "explanation": "美国卫星定位系统：GPS",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 8,
+      "item": 197
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K198",
+    "number": 198,
+    "original": "俄罗斯卫星定位系统：格罗纳斯",
+    "chapter": "星空与导航",
+    "term": "格罗纳斯",
+    "meaning": "俄罗斯的卫星定位系统",
+    "learningGoal": "识别格罗纳斯与“俄罗斯的卫星定位系统”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "格罗纳斯",
+      "俄罗斯的卫星定位系统"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "GPS",
+      "北斗",
+      "伽利略"
+    ],
+    "difficulty": 1,
+    "firstLevel": 25,
+    "reviewLevels": [
+      28
+    ],
+    "answer": "格罗纳斯",
+    "explanation": "俄罗斯卫星定位系统：格罗纳斯",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 8,
+      "item": 198
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K199",
+    "number": 199,
+    "original": "中国卫星定位系统：北斗",
+    "chapter": "星空与导航",
+    "term": "北斗",
+    "meaning": "中国的卫星定位系统",
+    "learningGoal": "识别北斗与“中国的卫星定位系统”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "北斗",
+      "中国的卫星定位系统"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "GPS",
+      "格罗纳斯",
+      "伽利略"
+    ],
+    "difficulty": 1,
+    "firstLevel": 25,
+    "reviewLevels": [],
+    "answer": "北斗",
+    "explanation": "中国卫星定位系统：北斗",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 8,
+      "item": 199
+    },
+    "issue": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K200",
+    "number": 200,
+    "original": "欧盟卫星定位系统：伽利略",
+    "chapter": "星空与导航",
+    "term": "伽利略",
+    "meaning": "欧盟的卫星定位系统",
+    "learningGoal": "识别伽利略与“欧盟的卫星定位系统”的对应；阅读原卡中的关联信息。",
+    "keywords": [
+      "伽利略",
+      "欧盟的卫星定位系统"
+    ],
+    "parts": [],
+    "ordered": false,
+    "suitableTypes": [
+      "match",
+      "judge",
+      "choice",
+      "scene"
+    ],
+    "confusion": [
+      "GPS",
+      "格罗纳斯",
+      "北斗"
+    ],
+    "difficulty": 1,
+    "firstLevel": 25,
+    "reviewLevels": [],
+    "answer": "伽利略",
+    "explanation": "欧盟卫星定位系统：伽利略",
+    "source": {
+      "file": "【卢y】科一文化素养 200 常识.pdf",
+      "page": 8,
+      "item": 200
+    },
+    "issue": null,
+    "duplicateOf": null
+  }
+]
