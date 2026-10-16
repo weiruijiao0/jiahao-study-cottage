@@ -4,8 +4,8 @@ import {fileURLToPath} from 'node:url';
 import crypto from 'node:crypto';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..'),dist=path.join(root,'dist');
 function walk(dir){return fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>e.isDirectory()?walk(path.join(dir,e.name)):[path.join(dir,e.name)]);}
-const files=walk(dist);const cacheFiles=files.filter(f=>!f.endsWith('sw.js')&&!f.endsWith('.tgz')).map(f=>'./'+path.relative(dist,f).replaceAll('\\','/'));
-const version=crypto.createHash('sha256').update('jiahao-cache-v3-navigation'+files.filter(f=>!f.endsWith('sw.js')).map(f=>fs.readFileSync(f)).join('')).digest('hex').slice(0,12);
+const files=walk(dist);const cacheFiles=files.filter(f=>!f.endsWith('sw.js')&&!f.endsWith('.tgz')&&!path.relative(dist,f).split(path.sep).some(part=>part.startsWith('.'))).map(f=>'./'+path.relative(dist,f).replaceAll('\\','/'));
+const version=crypto.createHash('sha256').update('jiahao-cache-v4-public-assets'+files.filter(f=>!f.endsWith('sw.js')).map(f=>fs.readFileSync(f)).join('')).digest('hex').slice(0,12);
 fs.writeFileSync(path.join(dist,'sw.js'),`const CACHE='jiahao-${version}';const FILES=${JSON.stringify(cacheFiles)};
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('jiahao-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()));});
